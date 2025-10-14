@@ -31,7 +31,17 @@ I'm a Computer Science postgraduate with an analytical mindset and enthusiasm fo
 - Acquired advanced skills in **data cleaning**, **data analysis**, **visualization**, and **reporting**.
 - Worked with a variety of tools such as **SQL**, **Excel**, **Python**, **Power BI**, **Tableau**, and more.
 - Focused on real-world applications of analytical techniques to derive actionable insights.
+---
 
+## Certifications
+
+I worked very hard to get certified by Microsoft in Power BI and the Azure cloud to deepen my knowledge and gain exposure to higher levels of use cases and problems.
+
+### Microsoft Certified: Power BI Data Analyst:
+https://learn.microsoft.com/en-us/users/iamomardarwesh/credentials/40ec254c1199ceed
+
+### Microsoft Certified: Azure Data Fundamentals:
+https://learn.microsoft.com/en-us/users/iamomardarwesh/credentials/c10953d4ba96486c
 
 
 
