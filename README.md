@@ -31,12 +31,11 @@ I'm a Computer Science postgraduate with an analytical mindset and enthusiasm fo
 - Acquired advanced skills in **data cleaning**, **data analysis**, **visualization**, and **reporting**.
 - Worked with a variety of tools such as **SQL**, **Excel**, **Python**, **Power BI**, **Tableau**, and more.
 - Focused on real-world applications of analytical techniques to derive actionable insights.
+
+
 ---
 
 
-i 
-
----
 On a typical day, I worked on developing deliverables such as presentations, dashboards, and reports using tools like **SQL**, **Python**, **Power BI**, **Excel**, **Google Sheets**, **PowerPoint**, **Figma**, and others as needed.
 
 My workflow usually started with exploring and understanding the data—assessing its quality, identifying any issues, and defining suitable approaches to address them. Once the data challenges were tackled and multiple sources were integrated where necessary, I moved on to the design phase.
@@ -48,11 +47,31 @@ A key focus throughout was making insights easily understandable for **non-techn
 ---
 
 
-I made reports/dashboards like this:
 
 
 
-I know what you're thinking right now. you wanna see a couple of interactive dashboard/report samples.
+I used **Power BI** to build these interactive reports and dashboards:
+
+![Power BI Logo](assets/tools-technologies-pics/PowerBI-logo.jpeg)
+
+
+
+Here are a few examples of the type of visualizations I created:
+
+
+![National Overview](assets/project-pics/maji-ndogo-pics/national-overview.png)
+
+
+![Detail View](assets/project-pics/maji-ndogo-pics/detail-view.png)
+
+
+![Progress Overview](assets/project-pics/maji-ndogo-pics/progress--overview.png)
+
+
+
+
+I know what you're thinking right now. You wanna see a couple of interactive dashboard/report samples.
+
 Have a look at a few Reports/Dashboards for interactive insights I made with Power BI:
 
 - [Visualizing the Currents of Change — Part 1](https://app.powerbi.com/view?r=eyJrIjoiZmRiODJiZjYtYTA3Mi00ODFjLThmMWYtY2QxZDY4NWI1YzJmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
