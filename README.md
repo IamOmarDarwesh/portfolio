@@ -33,6 +33,29 @@ I'm a Computer Science postgraduate with an analytical mindset and enthusiasm fo
 - Focused on real-world applications of analytical techniques to derive actionable insights.
 ---
 
+
+i 
+
+---
+On a typical day, I worked on developing deliverables such as presentations, dashboards, and reports using tools like **SQL**, **Python**, **Power BI**, **Excel**, **Google Sheets**, **PowerPoint**, **Figma**, and others as needed.
+
+My workflow usually started with exploring and understanding the data—assessing its quality, identifying any issues, and defining suitable approaches to address them. Once the data challenges were tackled and multiple sources were integrated where necessary, I moved on to the design phase.
+
+I began by sketching and shaping the structure of dashboards and reports, ensuring they were not only visually appealing but also informative and purposeful. From there, I built comprehensive dashboards that clearly presented **KPIs** and performance metrics aligned with business objectives.
+
+A key focus throughout was making insights easily understandable for **non-technical stakeholders**, so that data-driven decisions could be made with clarity and confidence.
+
+---
+
+
+
+
+
+
+
+
+
+---
 ## Certifications
 
 I worked very hard to get certified by Microsoft in Power BI and the Azure cloud to deepen my knowledge and gain exposure to higher levels of use cases and problems.
