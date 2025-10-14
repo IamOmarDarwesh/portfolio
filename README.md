@@ -17,9 +17,9 @@ I'm a Computer Science postgraduate with an analytical mindset and enthusiasm fo
 
 ![ALX Africa Logo](assets/experience-pics/alx-africa%20Logo.jpg)
 
-- Completed an intensive, challenging training program with rigorous deadlines.
+- Worked on multiple assignments with rigorous deadlines.
 - Gained expertise in **SQL**, **Python**, **Power BI**, and other key data analysis tools.
-- Applied hands-on experience to solve complex problems in data science and analysis.
+
 
 ---
 
@@ -30,7 +30,7 @@ I'm a Computer Science postgraduate with an analytical mindset and enthusiasm fo
 
 - Acquired advanced skills in **data cleaning**, **data analysis**, **visualization**, and **reporting**.
 - Worked with a variety of tools such as **SQL**, **Excel**, **Python**, **Power BI**, **Tableau**, and more.
-- Focused on real-world applications of analytical techniques to derive actionable insights.
+
 
 
 ---
@@ -48,6 +48,8 @@ A key focus throughout was making insights easily understandable for **non-techn
 
 
 
+I experienced different visualization tools like **Power BI, Tableau, Looker Studio, and Python**.
+
 
 
 I used **Power BI** to build these interactive reports and dashboards:
@@ -56,7 +58,7 @@ I used **Power BI** to build these interactive reports and dashboards:
 
 
 
-Here are a few examples of the type of visualizations I created:
+A few examples of the type of visualizations I created are like these:
 
 
 ![National Overview](assets/project-pics/maji-ndogo-pics/national-overview.png)
