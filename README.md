@@ -48,9 +48,18 @@ A key focus throughout was making insights easily understandable for **non-techn
 ---
 
 
+I made reports/dashboards like this:
 
 
 
+I know what you're thinking right now. you wanna see a couple of interactive dashboard/report samples.
+Have a look at a few Reports/Dashboards for interactive insights I made with Power BI:
+
+- [Visualizing the Currents of Change — Part 1](https://app.powerbi.com/view?r=eyJrIjoiZmRiODJiZjYtYTA3Mi00ODFjLThmMWYtY2QxZDY4NWI1YzJmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+- [Visualizing the Currents of Change — Part 2](https://app.powerbi.com/view?r=eyJrIjoiZDAzZGVjZDAtMDBhYy00ZWI2LTkyOWUtMmFkNGM3ODc3NzZkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+- [Visualizing the Currents of Change — Part 3](https://app.powerbi.com/view?r=eyJrIjoiNzdmYjFlNmYtMmIxYi00MTdkLWEwMTAtZDFhMWVkNDU1MWZiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+- [Visualizing the Currents of Change — Part 4](https://app.powerbi.com/view?r=eyJrIjoiNmQ5Zjc3NTctMmU3NC00ZjA5LWE1ZjktNDhlM2M1ZjIxNDQ2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+- [Visualizing the Currents of Change — Part 5](https://app.powerbi.com/view?r=eyJrIjoiZjFhMmI0OWEtMWU5Yi00YmE0LWE1ZjAtZWJmNGJiNjQzYTQwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 
 
