@@ -50,9 +50,15 @@ I began by sketching and shaping the structure of dashboards and reports, ensuri
 A key focus throughout was making insights easily understandable for **non-technical stakeholders**, so that data-driven decisions could be made with clarity and confidence.
 
 ---
+
+I used **SQL**, **Python**, **Excel**, **Google Sheets** for Exploring and Cleaning data.
+
 ---
 
-Sketching and Designing a dashboard/report using **Figma** and **PowerPoint**.
+
+--- 
+
+I used **Figma** and **PowerPoint** for Sketching and Designing a dashboard/report.
 
   ![Figma Logo](assets/tools-technologies-pics/figma-logo.png)
 
