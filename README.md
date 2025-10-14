@@ -7,7 +7,7 @@ Let me introduce myself.
 I'm Omar Darwesh.
 
 
-I'm a Computer Science postgraduate with an analytical mindset and enthusiasm for Data Analysis, Analytics Engineering, and Data Engineering.
+I'm a Computer Science postgraduate with an analytical mindset and enthusiasm for **Data Analysis**, **Analytics Engineering**, and **Data Engineering**.
 
 ---
 
