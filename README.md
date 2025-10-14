@@ -12,7 +12,7 @@ I'm a Computer Science postgraduate with an analytical mindset and enthusiasm fo
 
 ## Technical Experience
 
-### Data Science Trainee | [ALX Africa](https://www.alxafrica.com) | Egypt
+### Data Science Trainee | ALX Africa | Egypt
 *Duration: 1.5 years*
 
 ![ALX Africa Logo](assets/experience-pics/alx-africa%20Logo.jpg)
@@ -23,7 +23,7 @@ I'm a Computer Science postgraduate with an analytical mindset and enthusiasm fo
 
 ---
 
-### Data Analysis Trainee | [Information Technology Institute (ITI)](https://www.iti.gov.eg) | Ministry of Communication and Information Technology (MCIT) | Egypt
+### Data Analysis Trainee | Information Technology Institute (ITI) | Ministry of Communication and Information Technology (MCIT) | Egypt
 *Duration: 5 months*
 
 ![ITI Logo](assets/experience-pics/ITI%20Logo@2x.png)
