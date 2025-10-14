@@ -47,19 +47,12 @@ A key focus throughout was making insights easily understandable for **non-techn
 ---
 
 ---
-Sketching and designing a dashboard/report using **Figma** and **PowerPoint**.
+Sketching and Designing a dashboard/report using **Figma** and **PowerPoint**.
 
-assets/tools-technologies-pics/figma-logo.png
-assets/tools-technologies-pics/powerpoint-logo.jpg
-
-
-### Tools Used
-
-- **Figma**  
   ![Figma Logo](assets/tools-technologies-pics/figma-logo.png)
 
-- **PowerPoint**  
-  ![PowerPoint Logo](assets/tools-technologies-pics/powerpoint-logo.jpg)
+
+  ![PowerPoint Logo](assets/tools-technologies-pics/powerpoint-logo.png)
 
 ---
 
