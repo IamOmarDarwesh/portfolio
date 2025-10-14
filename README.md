@@ -56,21 +56,28 @@ A key focus throughout was making insights easily understandable for **non-techn
 
 
 ---
-## Certifications
-
-I worked very hard to get certified by Microsoft in Power BI and the Azure cloud to deepen my knowledge and gain exposure to higher levels of use cases and problems.
-
-### Microsoft Certified: Power BI Data Analyst:
-https://learn.microsoft.com/en-us/users/iamomardarwesh/credentials/40ec254c1199ceed
-
-### Microsoft Certified: Azure Data Fundamentals:
-https://learn.microsoft.com/en-us/users/iamomardarwesh/credentials/c10953d4ba96486c
-
 
 
 
 ---
 
+##  Certifications
+
+I worked hard to get certified by Microsoft in **Power BI** and **Azure Cloud**, aiming to deepen my knowledge and gain exposure to higher levels of use cases and data challenges at a more advanced level.
+
+---
+
+### Microsoft Certified: Power BI Data Analyst:
+https://learn.microsoft.com/en-us/users/iamomardarwesh/credentials/40ec254c1199ceed
+
+![Power BI Certification](assets/certification-pics/Microsoft%20Certified%20Power%20BI%20Data%20Analyst%20Certificate%20(PL-300).png)
+
+---
+
+### Microsoft Certified: Azure Data Fundamentals:
+https://learn.microsoft.com/en-us/users/iamomardarwesh/credentials/c10953d4ba96486c
+
+![Azure Data Fundamentals Certification](assets/certification-pics/Microsoft%20Certified%20Azure%20Data%20Fundamentals%20Certificate%20(DP-900).png)
 
 
 
