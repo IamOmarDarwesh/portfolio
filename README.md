@@ -9,10 +9,13 @@ I'm Omar Darwesh.
 
 I'm a Computer Science postgraduate with an analytical mindset and enthusiasm for Data Analysis, Analytics Engineering, and Data Engineering.
 
+---
 
 ## Technical Experience
+<br>
 
-### Data Science Trainee | ALX Africa | Egypt
+### **Data Science Trainee** 
+#### at ALX Africa, Egypt
 *Duration: 1.5 years*
 
 ![ALX Africa Logo](assets/experience-pics/alx-africa%20Logo.jpg)
@@ -21,9 +24,11 @@ I'm a Computer Science postgraduate with an analytical mindset and enthusiasm fo
 - Gained expertise in **SQL**, **Python**, **Power BI**, and other key data analysis tools.
 
 
----
+<br>
+<br>
 
-### Data Analysis Trainee | Information Technology Institute (ITI) | Ministry of Communication and Information Technology (MCIT) | Egypt
+### **Data Analysis Trainee** 
+#### at Information Technology Institute (ITI), Ministry of Communication and Information Technology (MCIT), Egypt
 *Duration: 5 months*
 
 ![ITI Logo](assets/experience-pics/ITI%20Logo@2x.png)
@@ -34,7 +39,7 @@ I'm a Computer Science postgraduate with an analytical mindset and enthusiasm fo
 
 
 ---
-
+---
 
 On a typical day, I worked on developing deliverables such as presentations, dashboards, and reports using tools like **SQL**, **Python**, **Power BI**, **Excel**, **Google Sheets**, **PowerPoint**, **Figma**, and others as needed.
 
@@ -45,8 +50,8 @@ I began by sketching and shaping the structure of dashboards and reports, ensuri
 A key focus throughout was making insights easily understandable for **non-technical stakeholders**, so that data-driven decisions could be made with clarity and confidence.
 
 ---
-
 ---
+
 Sketching and Designing a dashboard/report using **Figma** and **PowerPoint**.
 
   ![Figma Logo](assets/tools-technologies-pics/figma-logo.png)
