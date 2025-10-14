@@ -72,6 +72,30 @@ https://learn.microsoft.com/en-us/users/iamomardarwesh/credentials/c10953d4ba964
 ---
 
 
+
+
+---
+
+## Education
+
+I joined Cairo University to pursue an academic degree in Computer Science, driven by my ambition to deepen my technical expertise and grow as a professional in the field.
+
+
+### Cairo University  
+**Postgraduate Degree in Computer Science**  
+- *Graduated with **Excellent** Standing*  
+- **GPA:** 3.7 / 4.0  
+- *Graduation Year: 2025*
+
+
+
+---
+
+
+
+---
+
+
 # Hi there 👋, I'm Omar
 
 ### Data Analysis & Analytics Engineering 
