@@ -132,7 +132,19 @@ Have a look at a few Reports/Dashboards for interactive insights I made with Pow
 
 ---
 
+## Projects
 
+Have a look at a couple of projects :
+
+
+#### Modern Data Warehouse with SQL Server: ETL, Data Modeling, and Analytics
+##### ()
+
+#### Problem-Solving and Transformative Data Analysis & Insights for Sustainable Solutions
+##### ()
+
+#### Call Center Performance Analytics Dashboard 
+##### (Power BI)
 
 ---
 
