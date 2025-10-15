@@ -51,12 +51,30 @@ A key focus throughout was making insights easily understandable for **non-techn
 
 ---
 
-I used **SQL**, **Python**, **Excel**, **Google Sheets** for Exploring and Cleaning data.
+
+---
+
+In Jupyter Notebook, Google Colab & VS Code,
+
+| ![Jupyter Notebook](assets/tools-technologies-pics/jupyter-notebook-144.png) | ![Google Colab](assets/tools-technologies-pics/google-colab-144.png) | ![VS Code](assets/tools-technologies-pics/vs-code-144.png) |
+|:--:|:--:|:--:|
+| Jupyter Notebooks | Google Colab | VS Code |
+
+
+I used **SQL**, **Python**, **Excel**, **Google Sheets** for Exploring and Cleaning data existing in files like CSVs and databases like Microsoft SQL Server & MySQL.
+
+
 
 
 | ![SQL](assets/tools-technologies-pics/sql-144.png) | ![Python](assets/tools-technologies-pics/python-144.png) | ![Excel](assets/tools-technologies-pics/excel-144.png) | ![Google Sheets](assets/tools-technologies-pics/google-sheets-144.png) |
 |:--:|:--:|:--:|:--:|
 | SQL | Python | Excel | Google Sheets |
+
+
+| ![CSV](assets/tools-technologies-pics/csv-144.png) | ![SQL Server](assets/tools-technologies-pics/sql-server-144.png) | ![MySQL](assets/tools-technologies-pics/mysql-144.png) |
+|:--:|:--:|:--:|
+| CSVs | Microsoft SQL Server | MySQL |
+
 
 --- 
 
@@ -72,6 +90,10 @@ I used **Figma** and **PowerPoint** for Sketching and Designing a dashboard/repo
 ---
 
 I experienced different visualization tools like **Power BI, Tableau, Looker Studio, and Python**.
+
+| ![Power BI](assets/tools-technologies-pics/power-bi-144.png) | ![Tableau](assets/tools-technologies-pics/tableau-144.png) | ![Looker Studio](assets/tools-technologies-pics/looker-studio-144.png) | ![Python](assets/tools-technologies-pics/python-144.png) |
+|:--:|:--:|:--:|:--:|
+| Power BI | Tableau | Looker Studio | Python |
 
 
 
