@@ -185,32 +185,24 @@ I joined Cairo University to pursue an academic degree in Computer Science, driv
 
 ---
 
-You might wonder what I'm up to these days.
-
-I'm into learning/improving the Modern Data Stack. Fivetran, dbt, BigQuery, Metabase.
-
-It's all about scalability and reliability when providing data solutions.
-
----
+## Current Professional Development Focus | (Skills in Progress)
 
 You might be wondering what I’ve been up to lately.
 
-I’ve been diving deep into the Modern Data Stack — working with tools like Fivetran, dbt, BigQuery, and Metabase.
 
-It’s all about building scalable and reliable data solutions that empower better decision-making and growth.
+I’ve been focused on learning/mastering the **Modern Data Stack**, with hands-on experience using tools like **Fivetran**, **dbt**, **BigQuery**, and **Metabase**.
 
+| ![Fivetran](assets/tools-technologies-pics/fivetran-144.png) | ![dbt](assets/tools-technologies-pics/dbt-144.png) | ![BigQuery](assets/tools-technologies-pics/bigquery-144.png) | ![Metabase](assets/tools-technologies-pics/metabase-144.png) |
+|:--:|:--:|:--:|:--:|
+| Fivetran | dbt | BigQuery | Metabase |
 
-
-Lately, I’ve been focused on mastering the Modern Data Stack, with hands-on experience using tools like Fivetran, dbt, BigQuery, and Metabase.
 
 My goal is to build scalable, reliable, and maintainable data solutions that drive real business impact and support better decision-making and long-term growth — from automated pipelines to insightful dashboards.
 
 
-What I'm Working On
 
-These days, I’m focused on leveling up in the Modern Data Stack — working hands-on with tools like Fivetran, dbt, BigQuery, and Metabase.
 
-It’s all about delivering scalable, reliable, and maintainable data solutions that support better decision-making and long-term growth.
+
 
 ---
 
