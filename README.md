@@ -53,8 +53,10 @@ A key focus throughout was making insights easily understandable for **non-techn
 
 I used **SQL**, **Python**, **Excel**, **Google Sheets** for Exploring and Cleaning data.
 
----
 
+| ![SQL](assets/tools-technologies-pics/sql-144.png) | ![Python](assets/tools-technologies-pics/python-144.png) | ![Excel](assets/tools-technologies-pics/excel-144.png) | ![Google Sheets](assets/tools-technologies-pics/google-sheets-144.png) |
+|:--:|:--:|:--:|:--:|
+| SQL | Python | Excel | Google Sheets |
 
 --- 
 
