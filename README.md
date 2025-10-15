@@ -62,10 +62,12 @@ I used **SQL**, **Python**, **Excel**, **Google Sheets** for Exploring and Clean
 
 I used **Figma** and **PowerPoint** for Sketching and Designing a dashboard/report.
 
-  ![Figma Logo](assets/tools-technologies-pics/figma-logo.png)
 
 
-  ![PowerPoint Logo](assets/tools-technologies-pics/powerpoint-logo.png)
+
+| ![Figma](assets/tools-technologies-pics/figma-144.png) | ![PowerPoint](assets/tools-technologies-pics/powerpoint-144.png) |
+|:--:|:--:|
+| Figma | PowerPoint |
 
 ---
 
