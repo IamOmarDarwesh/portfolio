@@ -290,13 +290,18 @@ I’d love to hear from you.
 
 ---
 ---
+Excel, SQL, Python, Power BI, Tableau, Looker Studio, Google Sheets, SPSS
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker"/>
-</p>
+
+Azure, AWS, Git, GitHub, Bash Shell Scripting, Microsoft Office Suite, Google Workspace
+
+
+
+C++, Java, HTML, CSS, UML, Django Web Framework, Bootstrap Framework
+
+
+
+Fivetran, dbt, BigQuery, Metabase
 
 
 ---
@@ -305,7 +310,34 @@ I’d love to hear from you.
 
 
 
+
 ---
+
+
+
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" alt="Excel" width="96"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
