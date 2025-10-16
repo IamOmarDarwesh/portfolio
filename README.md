@@ -285,23 +285,6 @@ I’d love to hear from you.
 
 
 
----
----
-
----
----
-Excel, SQL, Python, Power BI, Tableau, Looker Studio, Google Sheets, SPSS
-
-
-Azure, AWS, Git, GitHub, Bash Shell Scripting, Microsoft Office Suite, Google Workspace
-
-
-
-C++, Java, HTML, CSS, UML, Django Web Framework, Bootstrap Framework
-
-
-
-Fivetran, dbt, BigQuery, Metabase
 
 
 ---
@@ -309,7 +292,7 @@ Fivetran, dbt, BigQuery, Metabase
 
 ## Tech Stack
 
-### I’ve Worked With  (Some Extensively, Some Briefly) ...
+### I’ve Worked With  *(Some Extensively, Some Briefly)* ...
 
 #### Core Data Tools & Languages
 
