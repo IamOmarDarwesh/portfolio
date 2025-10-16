@@ -319,9 +319,9 @@ Fivetran, dbt, BigQuery, Metabase
 
 #### Supporting Technologies & Platforms
 
-| ![Azure](assets/tools-technologies-pics/azure-96.png) | ![AWS](assets/tools-technologies-pics/aws-96.png) | ![Git](assets/tools-technologies-pics/git-96.png) | ![GitHub](assets/tools-technologies-pics/github-96.png) | ![Bash](assets/tools-technologies-pics/bash-96.png) | ![Microsoft Office](assets/tools-technologies-pics/microsoftoffice-96.png) | ![Google Workspace](assets/tools-technologies-pics/googleworkspace-96.png) |  |
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Azure | AWS | Git | GitHub | Bash Shell Scripting | Microsoft Office Suite | Google Workspace |  |
+| ![Azure](assets/tools-technologies-pics/azure-96.png) | ![AWS](assets/tools-technologies-pics/aws-96.png) | ![Git](assets/tools-technologies-pics/git-96.png) | ![GitHub](assets/tools-technologies-pics/github-96.png) | ![Bash](assets/tools-technologies-pics/bash-96.png) | ![Microsoft Office](assets/tools-technologies-pics/microsoftoffice-96.png) | ![Google Workspace](assets/tools-technologies-pics/googleworkspace-96.png) |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Azure | AWS | Git | GitHub | Bash Shell Scripting | Microsoft Office Suite | Google Workspace |
 
 
 #### Additional Technical Skills
