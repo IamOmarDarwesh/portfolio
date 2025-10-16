@@ -233,6 +233,25 @@ My goal is to build scalable, reliable, and maintainable data solutions that dri
 [![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)](https://www.metabase.com/)
 
 
+---
+---
+
+
+
+[![Fivetran](https://www.vectorlogo.zone/logos/fivetran/fivetran-ar21.svg)](https://www.fivetran.com/)
+[![BigQuery](https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg)](https://cloud.google.com/bigquery)
+[![Metabase](https://www.vectorlogo.zone/logos/metabase/metabase-ar21.svg)](https://www.metabase.com/)
+
+
+
+<a href="https://cloud.google.com/bigquery">
+  <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg" alt="BigQuery" width="144"/>
+</a>
+
+<a href="https://www.metabase.com/">
+  <img src="https://www.vectorlogo.zone/logos/metabase/metabase-ar21.svg" alt="Metabase" width="144"/>
+</a>
+
 
 ---
 ---
