@@ -20,7 +20,7 @@ I'm a Computer Science postgraduate with an analytical mindset and enthusiasm fo
 
 ![ALX Africa Logo](assets/experience-pics/alx-africa%20Logo.jpg)
 
-- Worked on multiple assignments with rigorous deadlines.
+- Worked on multiple assignments with tight deadlines.
 - Gained expertise in **SQL**, **Python**, **Power BI**, and other key data analysis tools.
 
 
@@ -202,22 +202,9 @@ I’ve been focused on learning/mastering the **Modern Data Stack**, with hands-
 My goal is to build scalable, reliable, and maintainable data solutions that drive real business impact and support better decision-making and long-term growth — from automated pipelines to insightful dashboards.
 
 
----
----
-
-## Connect With Me
-
-
-I’d love to hear from you.
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201002949020)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarelsayeddarwesh@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamomardarwesh/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IamOmarDarwesh)
 
 ---
----
+
 
 
 ## Tools & Technologies
@@ -236,7 +223,7 @@ I’d love to hear from you.
 
 ### I'm Currently Learning/Mastering ...
 
-#### The Modern Data Stack
+####     **The Modern Data Stack:**
 
 [![Fivetran](https://img.shields.io/badge/Fivetran-0A2342?style=for-the-badge&logo=fivetran&logoColor=white)](https://www.fivetran.com/)
 [![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)](https://www.getdbt.com/)
@@ -244,3 +231,22 @@ I’d love to hear from you.
 [![Databricks](https://img.shields.io/badge/Databricks-E6782D?style=for-the-badge&logo=databricks&logoColor=white)](https://databricks.com/)
 [![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)](https://www.snowflake.com/)
 [![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)](https://www.metabase.com/)
+
+
+
+---
+---
+
+## Connect With Me
+
+
+I’d love to hear from you.
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201002949020)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarelsayeddarwesh@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamomardarwesh/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IamOmarDarwesh)
+
+
+
