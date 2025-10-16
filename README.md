@@ -309,7 +309,7 @@ Fivetran, dbt, BigQuery, Metabase
 
 ## Tech Stack
 
-### I’ve Worked With ...
+### I’ve Worked With  (Some Extensively, Some Briefly) ...
 
 #### Core Data Tools & Languages
 
