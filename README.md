@@ -268,4 +268,47 @@ I’d love to hear from you.
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IamOmarDarwesh)
 
 
+---
+---
+
+### 📫 Connect with me
+<p align="center">
+  <a href="mailto:your@email.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="email"/></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="linkedin"/></a>
+  <a href="https://github.com/yourusername"><img src="https://img.icons8.com/glyph-neue/48/github.png" width="40" alt="github"/></a>
+</p>
+
+### 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,docker,dbt,sql" />
+</p>
+
+
+
+---
+---
+
+---
+---
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker"/>
+</p>
+
+
+---
+---
+
+
+
+
+---
+
+
+
+
+
 
