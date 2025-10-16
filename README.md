@@ -307,8 +307,37 @@ Fivetran, dbt, BigQuery, Metabase
 ---
 ---
 
+## Tech Stack
+
+### I’ve Worked With ...
+
+#### Core Data Tools & Languages
+
+| ![Excel](assets/tools-technologies-pics/excel-96.png) | ![SQL](assets/tools-technologies-pics/sql-96.png) | ![Python](assets/tools-technologies-pics/python-96.png) | ![Power BI](assets/tools-technologies-pics/powerbi-96.png) | ![Tableau](assets/tools-technologies-pics/tableau-96.png) | ![Looker Studio](assets/tools-technologies-pics/lookerstudio-96.png) | ![Google Sheets](assets/tools-technologies-pics/googlesheets-96.png) | ![SPSS](assets/tools-technologies-pics/spss-96.png) |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Excel | SQL | Python | Power BI | Tableau | Looker Studio | Google Sheets | SPSS |
+
+#### Supporting Technologies & Platforms
+
+| ![Azure](assets/tools-technologies-pics/azure-96.png) | ![AWS](assets/tools-technologies-pics/aws-96.png) | ![Git](assets/tools-technologies-pics/git-96.png) | ![GitHub](assets/tools-technologies-pics/github-96.png) | ![Bash](assets/tools-technologies-pics/bash-96.png) | ![Microsoft Office](assets/tools-technologies-pics/microsoftoffice-96.png) | ![Google Workspace](assets/tools-technologies-pics/googleworkspace-96.png) |  |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Azure | AWS | Git | GitHub | Bash Shell Scripting | Microsoft Office Suite | Google Workspace |  |
 
 
+#### Additional Technical Skills
+
+| ![UML](assets/tools-technologies-pics/uml-96.png) | ![HTML](assets/tools-technologies-pics/html-96.png) | ![CSS](assets/tools-technologies-pics/css-96.png) | ![Django](assets/tools-technologies-pics/django-96.png) | ![Bootstrap](assets/tools-technologies-pics/bootstrap-96.png) | ![C++](assets/tools-technologies-pics/cpp-96.png) | ![Java](assets/tools-technologies-pics/java-96.png) |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| UML | HTML | CSS | Django Web Framework | Bootstrap Framework | C++ | Java |
+
+
+### I'm Currently Learning/Mastering ...
+
+#### Modern Data Stack (In Progress)
+
+| ![Fivetran](assets/tools-technologies-pics/fivetran-96.png) | ![dbt](assets/tools-technologies-pics/dbt-96.png) | ![BigQuery](assets/tools-technologies-pics/bigquery-96.png) | ![Metabase](assets/tools-technologies-pics/metabase-96.png) |
+|:--:|:--:|:--:|:--:|
+| Fivetran | dbt | BigQuery | Metabase |
 
 
 ---
