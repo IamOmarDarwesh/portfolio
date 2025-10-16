@@ -97,9 +97,7 @@ I experienced different visualization tools like **Power BI, Tableau, Looker Stu
 
 
 
-I used **Power BI** to build these interactive reports and dashboards:
 
-![Power BI Logo](assets/tools-technologies-pics/PowerBI-logo.jpeg)
 
 
 
@@ -117,9 +115,13 @@ A few examples of the type of visualizations I created are like these:
 
 
 
+
 I know what you're thinking right now. You wanna see a couple of interactive dashboard/report samples.
 
-Have a look at a few Reports/Dashboards for interactive insights I made with Power BI:
+Have a look at a few Reports/Dashboards for interactive insights I built with **Power BI**:
+
+![Power BI Logo](assets/tools-technologies-pics/PowerBI-logo.jpeg)
+
 
 - [Visualizing the Currents of Change — Part 1](https://app.powerbi.com/view?r=eyJrIjoiZmRiODJiZjYtYTA3Mi00ODFjLThmMWYtY2QxZDY4NWI1YzJmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 - [Visualizing the Currents of Change — Part 2](https://app.powerbi.com/view?r=eyJrIjoiZDAzZGVjZDAtMDBhYy00ZWI2LTkyOWUtMmFkNGM3ODc3NzZkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
