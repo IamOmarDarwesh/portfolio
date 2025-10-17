@@ -4,6 +4,7 @@ Hi there 👋,
 Let me introduce myself. 
 
 
+
 I'm Omar Darwesh.
 
 
@@ -326,19 +327,19 @@ I’d love to hear from you.
 ---
 
 
-<table>
-  <tr>
-    <td style="padding: 10px;"><img src="assets/tools-technologies-pics/excel-96.png" alt="Excel"><br>Excel</td>
-    <td style="padding: 10px;"><img src="assets/tools-technologies-pics/sql-96.png" alt="SQL"><br>SQL</td>
-    <td style="padding: 10px;"><img src="assets/tools-technologies-pics/python-96.png" alt="Python"><br>Python</td>
-    <td style="padding: 10px;"><img src="assets/tools-technologies-pics/powerbi-96.png" alt="Power BI"><br>Power BI</td>
-    <td style="padding: 10px;"><img src="assets/tools-technologies-pics/tableau-96.png" alt="Tableau"><br>Tableau</td>
-    <td style="padding: 40px;"><img src="assets/tools-technologies-pics/lookerstudio-96.png" alt="Looker Studio"><br>Looker Studio</td>
-    <td style="padding: 40px;"><img src="assets/tools-technologies-pics/googlesheets-96.png" alt="Google Sheets"><br>Google Sheets</td>
-    <td style="padding: 40px;"><img src="assets/tools-technologies-pics/spss-96.png" alt="SPSS"><br>SPSS</td>
-  </tr>
-</table>
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <img src="assets/linkedin-svgrepo-com.svg" alt="LinkedIn" width="100" height="100">
+</a>
 
+<a href="https://www.getdbt.com/" target="_blank">
+  <img src="assets/Dbt(2).png" alt="dbt" width="144" height="144">
+</a>
+<a href="https://www.getdbt.com/" target="_blank">
+  <img src="assets/Dbt.svg" alt="dbt" width="144" height="144">
+</a>
+
+
+assets/Dbt.svg
 
 
 
