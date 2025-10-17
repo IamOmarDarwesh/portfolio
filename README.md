@@ -120,7 +120,7 @@ I know what you're thinking right now. You wanna see a couple of interactive das
 
 Have a look at a few Reports/Dashboards for interactive insights I built with **Power BI**:
 
-![Power BI Logo](assets/tools-technologies-pics/PowerBI-logo.jpeg)
+![Power BI Logo](assets/tools-technologies-pics/power-bi-logo-144.png)
 
 
 - [Visualizing the Currents of Change — Part 1](https://app.powerbi.com/view?r=eyJrIjoiZmRiODJiZjYtYTA3Mi00ODFjLThmMWYtY2QxZDY4NWI1YzJmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
@@ -152,7 +152,7 @@ Have a look at a couple of projects :
 
 ##  Certifications
 
-I worked hard to get certified by Microsoft in **Power BI** and **Azure Cloud**, aiming to deepen my knowledge and gain exposure to higher levels of use cases and data challenges at a more advanced level.
+I worked very hard to get certified by Microsoft in **Power BI** and **Azure Cloud**, aiming to deepen my knowledge and gain exposure to higher levels of use cases and data challenges at a more advanced level.
 
 
 
@@ -326,8 +326,18 @@ I’d love to hear from you.
 ---
 
 
-
-<img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" alt="Excel" width="96"/>
+<table>
+  <tr>
+    <td style="padding: 10px;"><img src="assets/tools-technologies-pics/excel-96.png" alt="Excel"><br>Excel</td>
+    <td style="padding: 10px;"><img src="assets/tools-technologies-pics/sql-96.png" alt="SQL"><br>SQL</td>
+    <td style="padding: 10px;"><img src="assets/tools-technologies-pics/python-96.png" alt="Python"><br>Python</td>
+    <td style="padding: 10px;"><img src="assets/tools-technologies-pics/powerbi-96.png" alt="Power BI"><br>Power BI</td>
+    <td style="padding: 10px;"><img src="assets/tools-technologies-pics/tableau-96.png" alt="Tableau"><br>Tableau</td>
+    <td style="padding: 40px;"><img src="assets/tools-technologies-pics/lookerstudio-96.png" alt="Looker Studio"><br>Looker Studio</td>
+    <td style="padding: 40px;"><img src="assets/tools-technologies-pics/googlesheets-96.png" alt="Google Sheets"><br>Google Sheets</td>
+    <td style="padding: 40px;"><img src="assets/tools-technologies-pics/spss-96.png" alt="SPSS"><br>SPSS</td>
+  </tr>
+</table>
 
 
 
