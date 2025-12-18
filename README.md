@@ -199,42 +199,42 @@ I actively pursue continuous learning to sharpen my skills, expand my knowledge,
  
 ### A few of Coursera Certificates:
   
-  - **Excel Skills for Business** <u>by Macquarie University</u>
-  
-  - **Excel Skills for Data Analytics and Visualization** <u>by Macquarie University</u>
-  
-  - **Python for Everybody** <u>by University of Michigan</u>
-  
-  - **Machine Learning** <u>by DeepLearning.AI, Stanford University</u>
-  
-  - **Modern Big Data Analysis with SQL** <u>by Cloudera</u>
-  
-  - **IBM Data Warehouse Engineer** <u>by IBM</u>
-  
-  - **IBM Data Engineer** <u>by IBM</u> *(in progress...)*
+    - **Excel Skills for Business** <u>by Macquarie University</u>
+    
+    - **Excel Skills for Data Analytics and Visualization** <u>by Macquarie University</u>
+    
+    - **Python for Everybody** <u>by University of Michigan</u>
+    
+    - **Machine Learning** <u>by DeepLearning.AI, Stanford University</u>
+    
+    - **Modern Big Data Analysis with SQL** <u>by Cloudera</u>
+    
+    - **IBM Data Warehouse Engineer** <u>by IBM</u>
+    
+    - **IBM Data Engineer** <u>by IBM</u> *(in progress...)*
 
 
 ### A few of DataCamp Certificates:
 
-  - **Data Analyst Associate**
-  
-  - **SQL Associate**
-  
-  - **SQL for Business Analysts**
-  
-  - **SQL for Database Administrators**
-  
-  - **Associate Data Analyst in SQL**
-  
-  - **Associate Data Engineer in SQL**
-  
-  - **Associate Python Developer**
-  
-  - **Python Programming**
+    - **Data Analyst Associate**
+    
+    - **SQL Associate**
+    
+    - **SQL for Business Analysts**
+    
+    - **SQL for Database Administrators**
+    
+    - **Associate Data Analyst in SQL**
+    
+    - **Associate Data Engineer in SQL**
+    
+    - **Associate Python Developer**
+    
+    - **Python Programming**
 
 ### 365 Data Science Certificates:
 
-  - **Mastering Key Performance Indicators (KPIs)**
+    - **Mastering Key Performance Indicators (KPIs)**
 
 <br>
 
