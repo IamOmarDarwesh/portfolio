@@ -196,7 +196,9 @@ I am a results-driven professional with a strong focus on acquiring practical, i
 
 I actively pursue continuous learning to sharpen my skills, expand my knowledge, and stay updated.
 —— consistently investing in industry-recognized certifications to build strong job-ready skills that enable me to contribute effectively and grow within data-driven teams.
- 
+
+<br>
+
 ### A few of Coursera Certificates:
 
   - **Excel Skills for Business** <u>by Macquarie University</u>
@@ -213,6 +215,7 @@ I actively pursue continuous learning to sharpen my skills, expand my knowledge,
 
   - **IBM Data Engineer** <u>by IBM</u> *(in progress...)*
 
+<br>
 
 ### A few of DataCamp Certificates:
 
@@ -231,6 +234,8 @@ I actively pursue continuous learning to sharpen my skills, expand my knowledge,
   - **Associate Python Developer**
 
   - **Python Programming**
+
+<br>
 
 ### 365 Data Science Certificates:
 
