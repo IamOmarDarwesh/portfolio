@@ -194,8 +194,7 @@ I worked very hard to get certified by Microsoft in **Power BI** and **Azure Clo
 
 I am a results-driven professional with a strong focus on acquiring practical, in-demand skills.
 
-I actively pursue continuous learning to sharpen my skills, expand my knowledge, and stay updated.
-—— consistently investing in industry-recognized certifications to build strong job-ready skills that enable me to contribute effectively and grow within data-driven teams.
+I actively pursue continuous learning to sharpen my skills, expand my knowledge, and stay updated, —— consistently investing in industry-recognized certifications to build strong, job-ready skills that enable me to contribute effectively and grow within data-driven teams.
 
 <br>
 
