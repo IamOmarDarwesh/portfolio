@@ -14,7 +14,7 @@ Let me introduce myself.
 
 &nbsp;&nbsp;&nbsp;&nbsp; I'm a Computer Science postgraduate with an analytical mindset and a deep enthusiasm for
 
-&nbsp;&nbsp;&nbsp;&nbsp; **Data Analysis** & **Analytics Engineering**.
+&nbsp;&nbsp;&nbsp;&nbsp; **Data Analysis**, **Business Intelligence (BI)** & **Analytics Engineering**.
 
 <br>
 <br>
@@ -158,6 +158,115 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
 <br>
 <br>
 
+# Certifications
+
+I worked very hard to get certified by Microsoft in **Power BI** and **Azure Cloud**, aiming to deepen my knowledge and gain exposure to higher levels of use cases and data challenges at a more advanced level.
+
+<br>
+<br>
+
+## Microsoft Certified: Power BI Data Analyst:
+
+[View Credential](https://learn.microsoft.com/en-us/users/iamomardarwesh/credentials/40ec254c1199ceed)
+
+![Power BI Certification](assets/imgs-certifications/PL-300-Microsoft-Power-BI-Data-Analyst-certificate.png)
+
+<br>
+<br>
+
+## Microsoft Certified: Azure Data Fundamentals:
+
+[View Credential](https://learn.microsoft.com/en-us/users/iamomardarwesh/credentials/c10953d4ba96486c)
+
+![Azure Data Fundamentals Certification](assets/imgs-certifications/DP-900-Microsoft-Azure-Data-Fundamentals-certificate.png)
+
+<br>
+
+---
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Professional Certificates & Specialization courses
+
+I am a results-driven professional with a strong focus on acquiring practical, in-demand skills. .
+
+I actively pursue continuous learning to sharpen my skills, expand my knowledge, and stay updated,
+—— consistently investing in industry-recognized certifications to build strong job-ready skills that enable me to contribute effectively and grow within data-driven teams.
+ 
+### A few of Coursera Certificates:
+
+- **Excel Skills for Business** <u>by Macquarie University</u>
+
+- **Excel Skills for Data Analytics and Visualization** <u>by Macquarie University</u>
+
+- **Python for Everybody** <u>by University of Michigan</u>
+
+- **Machine Learning** <u>by DeepLearning.AI, Stanford University</u>
+
+- **Modern Big Data Analysis with SQL** <u>by Cloudera</u>
+
+- **IBM Data Warehouse Engineer** <u>by IBM</u>
+
+- **IBM Data Engineer** <u>by IBM</u> *(in progress...)*
+
+
+### A few of DataCamp Certificates:
+
+- **Data Analyst Associate**
+
+- **SQL Associate**
+
+- **SQL for Business Analysts**
+
+- **SQL for Database Administrators**
+
+- **Associate Data Analyst in SQL**
+
+- **Associate Data Engineer in SQL**
+
+- **Associate Python Developer**
+
+- **Python Programming**
+
+### 365 Data Science Certificates:
+
+- **Mastering Key Performance Indicators (KPIs)**
+
+<br>
+
+---
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Education
+
+I joined Cairo University to pursue an academic degree in Computer Science, driven by my ambition to deepen my technical expertise and grow as a professional in the field.
+
+## Cairo University  
+### Postgraduate Degree in Computer Science
+
+- *Graduated with **Excellent** Standing*  
+- **GPA:** 3.7 / 4.0  
+- *Graduation Year: 2025*
+
+<br>
+
+---
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
 # Projects
 
 <br>
@@ -278,58 +387,6 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
 
 <br>
 <br>
-<br>
-<br>
-<br>
-
-# Certifications
-
-I worked very hard to get certified by Microsoft in **Power BI** and **Azure Cloud**, aiming to deepen my knowledge and gain exposure to higher levels of use cases and data challenges at a more advanced level.
-
-<br>
-<br>
-
-## Microsoft Certified: Power BI Data Analyst:
-
-[View Credential](https://learn.microsoft.com/en-us/users/iamomardarwesh/credentials/40ec254c1199ceed)
-
-![Power BI Certification](assets/imgs-certifications/PL-300-Microsoft-Power-BI-Data-Analyst-certificate.png)
-
-<br>
-<br>
-
-## Microsoft Certified: Azure Data Fundamentals:
-
-[View Credential](https://learn.microsoft.com/en-us/users/iamomardarwesh/credentials/c10953d4ba96486c)
-
-![Azure Data Fundamentals Certification](assets/imgs-certifications/DP-900-Microsoft-Azure-Data-Fundamentals-certificate.png)
-
-<br>
-
----
-
-<br>
-<br>
-<br>
-
-# Education
-
-I joined Cairo University to pursue an academic degree in Computer Science, driven by my ambition to deepen my technical expertise and grow as a professional in the field.
-
-<br>
-<br>
-
-## Cairo University  
-### Postgraduate Degree in Computer Science
-
-- *Graduated with **Excellent** Standing*  
-- **GPA:** 3.7 / 4.0  
-- *Graduation Year: 2025*
-
-<br>
-
----
-
 <br>
 <br>
 <br>
