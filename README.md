@@ -20,7 +20,7 @@ Let me introduce myself.
 <br>
 <br>
 
-# Technical Experience
+# Technical Experience {#experience}
 <br>
 
 
@@ -171,7 +171,7 @@ Kindly have a look at a few Reports/Dashboards for interactive insights I built 
 <br>
 <br>
 
-# Certifications
+# Certifications  {#certifications}
 
 I worked very hard to get certified by Microsoft in **Power BI** and **Azure Cloud**, aiming to deepen my knowledge and gain exposure to higher levels of use cases and data challenges at a more advanced level.
 
