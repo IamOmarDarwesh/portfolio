@@ -570,7 +570,7 @@ Tools:
 <br>
 <br>
 
-# Current Professional Development Focus
+# Current Professional Development Focus {#development}
 
 You might be wondering what I’ve been up to lately.
 
@@ -602,6 +602,7 @@ My goal here is to build **scalable, reliable, and maintainable data solutions**
 <br>
 <br>
 
+## Contact
 <div align="center">
 
   <p>Thanks for visiting my Profile!</p>
