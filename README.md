@@ -14,7 +14,7 @@ Let me introduce myself.
 
 &nbsp;&nbsp;&nbsp;&nbsp; I'm a Computer Science postgraduate with an analytical mindset and a deep enthusiasm for
 
-&nbsp;&nbsp;&nbsp;&nbsp; **Data Analysis**, **Business Intelligence (BI)**, **Analytics Engineering**  & **Artificial Intelligence**.
+&nbsp;&nbsp;&nbsp;&nbsp; **Data Analysis**, **Business Intelligence (BI)** & **Analytics Engineering**.
 
 <br>
 <br>
