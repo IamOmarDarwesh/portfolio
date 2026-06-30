@@ -574,7 +574,7 @@ Tools:
 
 You might be wondering what I’ve been up to lately.
 
-I’ve been focused on learning/mastering tools like **Docker**, **dbt**, **BigQuery**, **Postgresql**, **dltHub**, **Kestra**, and **Metabase** through hands-on experience.
+I’ve been focused on learning/mastering tools like **Docker**, **dbt**, **BigQuery**, **Postgresql**, **Airflow**, **Spark**, and **Kafka** through hands-on experience.
 
 Working to get comfortable with the full data pipeline, with a particular focus on mastering **data transformation**, alongside **data ingestion**, **warehousing**, **orchestration**, and **analytics**.
 
