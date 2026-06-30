@@ -23,6 +23,19 @@ Let me introduce myself.
 # Technical Experience
 <br>
 
+
+## **Data Engineering Trainee** 
+### at ALX Africa, Egypt
+*Duration: June 2026 - Present*
+
+![ALX Afric](assets/imgs-experiences/alx-africa.jpg)
+
+  
+- Gaining expertise in **Python**, **Docker**, **Apache Airflow**, **Apache Spark**, **Apache Kafka**, and other key data Engineering tools.
+
+<br>
+<br>
+
 ## **Data Science Trainee** 
 ### at ALX Africa, Egypt
 *Duration: 1.5 years*
@@ -198,6 +211,10 @@ I actively pursue continuous learning to sharpen my skills, expand my knowledge,
 
 <br>
 
+### Udacity Certificates:
+
+  - **Data Visualization Nanodegree**
+
 ### A few of Coursera Certificates:
 
   - **Excel Skills for Business** <u>by Macquarie University</u>
@@ -276,6 +293,167 @@ I joined Cairo University to pursue an academic degree in Computer Science, driv
 <br>
 <br>
 
+
+
+## Superstore Sales Executive Performance Analytics & BI Dashboard
+> **Turning four years of sales data into an executive decision-support dashboard that uncovers the drivers behind growth, profitability, and business performance, turning revenue, margin, and customer signals into strategic decisions.**
+
+### Tools:
+`Tableau`, `Sketching & Wireframing`, `Dashboard Design`, `Data Storytelling`, `Data Visualization`
+
+<br>
+
+- Designed and developed an **interactive executive Tableau dashboard** analyzing **four years of sales data (2015-2018)**, enabling stakeholders to monitor revenue, profitability, customer behavior, product performance, and business trends from a single analytical interface.
+
+- Applied business intelligence techniques to move beyond descriptive reporting, uncovering critical insights such as **margin compression despite revenue growth**, underperforming product categories, high-value customer segments, and hidden profit drivers.
+
+- Engineered a **dynamic parameter-driven metric selector** that instantly switches every visualization between **Sales, Profit, Profit Ratio, and Quantity**, allowing multiple analytical perspectives without duplicating dashboards.
+
+- Structured the dashboard around executive decision-making principles using layered information hierarchy, interactive filtering, conditional formatting, and drill-down analysis to help users quickly identify opportunities, risks, and performance drivers.
+
+- Applied accessibility-first design principles, including a **structured font hierarchy** and **color-vision-deficiency-safe palettes**, ensuring the dashboard functions as a strategic tool, not just a visual one.
+
+- Uncovered a critical disconnect hiding behind healthy top-line growth: **Corporate revenue grew 17% in 2018 while profit fell 13.65%**, and **Furniture generated $742K in sales but only a 3.88% margin** — less than a quarter of Technology's 15.64%.
+
+- Identified the **Home Office segment as the highest-leverage growth opportunity**, with **51% revenue growth, 40% profit growth, and the highest profit ratio of all three segments since day one** — despite remaining the smallest.
+
+- Pinpointed hidden margin opportunities at the product level: **Paper, Labels, and Envelopes consistently delivered 42%+ profit margins**, and **Copiers produced 29–38% margins** while rarely appearing among top-volume products — both flagged as high-leverage, low-effort wins.
+
+- Translated analytical findings into **actionable business recommendations**, including pricing optimization, customer segment prioritization, product portfolio improvements, and profitability monitoring to support data-driven strategic decisions, equipping stakeholders to move from historical reporting to forward-looking strategy.
+
+<br>
+
+**View Full Project:** [Superstore Executive Analytics BI Dashboard Planned Designed Analyzed Polished for Executive Insight](https://github.com/IamOmarDarwesh/Superstore-Executive-Analytics-BI-Dashboard-Planned-Designed-Analyzed-Polished-for-Executive-Insight)
+
+<br>
+<br>
+<br>
+<br>
+
+## AI Chatbot Performance & Customer Experience Analytics Suite
+
+> **Thousands of real AI chatbot interactions across 3.5 years, turned into a five-part executive intelligence suite, uncovering where AI succeeds, where trust breaks down, and what customers truly feel.**
+
+Tools:
+
+`Tableau`, `Sketching & Wireframing`, `Dashboard Design`, `Data Storytelling`, `Data Visualization`, `Business Intelligence`, `Customer Analytics`, `Sentiment Analysis`
+
+<br>
+
+- Designed and developed a **five-part interactive Tableau analytics suite** that guides stakeholders from executive KPIs to escalation mapping to multi-dimensional sentiment analysis and detailed analyses of escalation & resolution patterns, sentiment trends, multilingual performance, and customer experience - each dashboard answering a distinct strategic question and feeding the next.
+
+- Analyzed **thousands of chatbot interactions (2023-2026)** across chatbot versions, languages, query types, response lengths, and operational outcomes to identify the key drivers of customer satisfaction and operational efficiency and evaluate chatbot effectiveness.
+
+- Built executive dashboards with interactive filters, KPI cards, trend analyses, heatmaps, and drill-down capabilities, enabling users to explore chatbot performance from multiple business perspectives.
+
+- Combined operational KPIs with sentiment analysis to reveal hidden patterns such as multilingual performance gaps, high-risk escalation hotspots, the optimal response-length range, sentiment deterioration despite operational success, emotional trends, and high-impact optimization opportunities that aggregate metrics alone would not expose.
+
+- Applied business storytelling, executive dashboard design principles, interactive filtering, and heatmaps to transform raw complex conversational data into strategic actionable recommendations for AI performance optimization, customer experience improvement, customer satisfaction, support efficiency and data-driven decision-making.
+
+<br>
+
+- Designed an **executive overview dashboard** revealing an **85% resolution rate** alongside a **3.15/5 average satisfaction score** — exposing the critical insight that *resolution does not equal satisfaction*, and that **earlier chatbot version v1.0 outperformed every newer release** on customer sentiment.
+
+- Conducted a **deep escalation and resolution analysis**, pinpointing that **General Queries drive the highest escalation volume** despite being the most common interaction type, and isolating the exact failure combination (**Others + French + v1.0**) responsible for the dataset's highest unresolved-interaction rate — while also surfacing a **zero-escalation, zero-unresolved success case** (German "Other" queries on v2.0) as a model to replicate.
+
+- Built a **three-stage sentiment intelligence layer** (overview → trends → granular heatmaps) uncovering that customer experience is **highly polarized — ~25% very positive, ~25% very negative, only ~10% neutral** — and that **responses of 25–50 words** generate the strongest sentiment, while sub-25-word replies are the only category with negative sentiment.
+
+- Tracked sentiment as a **leading indicator over time**, identifying a sentiment peak in **Q1 2024**, a sharp drop in **Q2 2024**, and the dataset's **lowest point in Q4 2025** — flagging an early-warning signal that resolution metrics alone would have missed entirely.
+
+- Surfaced **emotional hotspots at the language × query-type intersection**, finding **German Feedback interactions scored highest in sentiment** overall, while **German Product Inquiries became the most negative segment** under escalated/unresolved conditions — proof that aggregate metrics hide segment-level risk.
+
+- Delivered a **prioritized, cross-functional action plan** (technical support optimization, multilingual model investment, response-length standards, version benchmarking) translating five layers of analysis into concrete, ROI-ranked recommendations for AI and CX leadership.
+
+<br>
+
+**View Full Project:** [An Executive Analytics Suite for AI Chatbot Performance Trust and Customer Experience](https://github.com/IamOmarDarwesh/An-Executive-Analytics-Suite-for-AI-Chatbot-Performance-Trust-and-Customer-Experience)
+
+<br>
+<br>
+<br>
+<br>
+
+## When Growth Met Emissions: A Data-Driven Story of Economic Growth & Carbon Decoupling
+
+> **Transforming 25 years of World Bank global economic and environmental data across 217 countries into an interactive story that challenges one of the most widely accepted assumptions in economic development that getting richer doesn't have to mean polluting more, and a growing group of nations is proving it.**
+
+### Tools:
+
+`Flourish`, `Tableau`, `Data Storytelling`, `Audio Narration`, `Data Visualization`, `Statistical Analysis`
+
+<br>
+
+- Tackled a long-standing economic assumption, "growth requires rising emissions", by analyzing **25 years (1990–2014) of World Bank indicators across 217 countries and territories** to investigate whether economic growth must come at the expense of rising carbon emissions, uncovering measurable evidence of long-term economic–environmental decoupling.
+
+* Designed and built a **Hans Rosling-inspired animated bubble chart** in Flourish, combining GDP per capita, CO₂ emissions, population, region, and income group into an intuitive, time-based visualization that reveals decades of global trends in minutes.
+
+* Engineered a **multi-step interactive data story**, spanning three decades (1990s, 2000s, 2006–2014), with narration, annotations, filters, and guided analysis, making complex longitudinal data accessible to technical and non-technical audiences alike.
+
+* Identified and communicated actionable insights showing that multiple countries achieved sustained GDP growth while reducing emissions, reframing decarbonization as a strategic growth opportunity rather than an economic trade-off.
+
+- It is a **distinct "decoupling" group**, including Luxembourg, Singapore, Ireland, Switzerland, the U.S., Aruba, and more, that grew significantly wealthier while *cutting* emissions, not just slowing their rise.
+
+- Quantified standout outliers: **Aruba cut emissions by over 18.5 metric tons per capita (2006–2014)** while still growing economically, and **Luxembourg sustained falling emissions across three straight decades** alongside tens of thousands of dollars in GDP per capita growth.
+
+- Proved decoupling isn't tied to one economic profile, it spans small open economies, advanced finance hubs, and resource-based economies in transition, removing the common excuse that it "can't apply" to a given sector or region.
+
+- Delivered findings through **both an interactive data visualization and a long-form written analysis**, translating a 25-year, multi-indicator global dataset into a story a non-technical audience could grasp in minutes.
+
+- Distilled insights into targeted **recommendations for business leaders, policymakers, investors, and ESG teams**, reframing decarbonization as a growth strategy rather than a compliance cost.
+
+<br>
+
+**View Full Project:** [Decoupling Economic Growth from Carbon Emissions: A 25-Year World Bank Data Analysis Redefining Rules](https://github.com/IamOmarDarwesh/Decoupling-Economic-Growth-from-Carbon-Emissions-A-25-Year-World-Bank-Data-Analysis-Redefining-Rules)
+
+<br>
+<br>
+<br>
+<br>
+
+## Spectacular Studios - Movie Profitability Analysis & Executive Strategy
+
+> **Turning thousands of IMDb film records into a data-driven production strategy that helps executives make smarter, lower-risk investment decisions, uncovering exactly which combination of budget, genre, runtime, language, and timing maximizes profit.**
+
+### Tools:
+`Tableau`, `PowerPoint`, `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Jupyter Notebook`,  `Data Integration & Cleaning`, `Feature Engineering`, `Business Intelligence`
+
+<br>
+
+- Built an end-to-end **data analytics pipeline** that transformed five raw IMDb datasets into a clean, analysis-ready dataset by performing data integration, cleaning, validation, deduplication, and feature engineering on thousands of commercially released films.
+
+- Engineered business-focused features including **profit, ROI, budget tiers, release seasons, runtime categories, and profitability classifications**, enabling deeper analysis of the factors influencing movie success.
+
+- Conducted multi-dimensional profitability analysis across **genre, budget, runtime, language, and release timing**, identifying how these variables interact to maximize financial returns rather than evaluating them in isolation.
+
+- Delivered executive-level recommendations by uncovering optimal production strategies, including budget allocation, genre selection, release windows, and language targeting, helping transform analytical findings into actionable business decisions.
+
+<br>
+
+- Uncovered that **release timing alone drives ~2.5× more profit** for Holiday and Summer releases versus Fall/Winter, and that **runtime and season interact** — long films (150+ min) post the highest upside in peak windows but drop sharply off-peak.
+
+- Identified that **budget-genre alignment is critical**: Action, Sci-Fi, and Adventure require high budgets to succeed, while Horror and Romance perform best lean — with **Animation uniquely strong across every budget tier**.
+
+- Surfaced a **language strategy by budget tier**: English dominates films over $100M, while mid- and low-budget films profit consistently across Chinese, Japanese, Telugu, and French markets.
+
+- Conducted a **full statistical distribution audit**, revealing profit's mean ($59.4M) is **nearly 6× its median ($11.2M)**, proving that a handful of blockbusters skew industry averages and that the median, not the mean, should guide executive decision-making.
+
+<br>
+
+- Performed a comprehensive **data quality, bias, and limitations assessment**, documenting selection bias, survivorship bias, and missing-data challenges to ensure findings were interpreted responsibly and with appropriate business context.
+
+- The **rigorous limitations and bias audit** quantifies that the dataset over-represents U.S. films by **+35.6 points versus real-world output** and that **88% of the raw dataset was excluded** during cleaning, making the analysis's scope and boundaries explicit rather than hidden.
+
+- Presented the analysis through a polished executive presentation and supporting documentation, demonstrating the ability to combine **data engineering, statistical analysis, business intelligence, and data storytelling** to support strategic decision-making.
+
+<br>
+
+**View Full Project:** [Maximizing Movie Profitability through Transforming Raw Data into a Data-Driven Production Strategy](https://github.com/IamOmarDarwesh/Maximizing-Movie-Profitability-through-Transforming-Raw-Data-into-a-Data-Driven-Production-Strategy)
+
+<br>
+<br>
+<br>
+<br>
+
 ## Call Center Performance Analytics Dashboard  
 
 > *Turning call center data into smarter decisions and happier customers.*  
@@ -304,7 +482,7 @@ I joined Cairo University to pursue an academic degree in Computer Science, driv
 
 <br>
 
-🔗 **View Full Project:** [Call Center Performance Analytics Dashboard](https://github.com/IamOmarDarwesh/Call-Center-Performance-Analytics-Dashboard)
+**View Full Project:** [Call Center Performance Analytics Dashboard](https://github.com/IamOmarDarwesh/Call-Center-Performance-Analytics-Dashboard)
 
 <br>
 <br>
