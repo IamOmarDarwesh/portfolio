@@ -28,7 +28,7 @@ Let me introduce myself.
 ### &nbsp;&nbsp;&nbsp;&nbsp; at ALX Africa, Egypt
 &nbsp;&nbsp;&nbsp;&nbsp; *Duration: June 2026 - Present*
 
-![ALX Afric](assets/imgs-experiences/alx-africa.jpg)
+&nbsp;&nbsp;&nbsp;&nbsp; ![ALX Afric](assets/imgs-experiences/alx-africa.jpg)
 
   
 - Gaining expertise in **Python**, **Docker**, **Apache Airflow**, **Apache Spark**, **Apache Kafka**, and other key data Engineering tools.
@@ -40,7 +40,7 @@ Let me introduce myself.
 ### &nbsp;&nbsp;&nbsp;&nbsp; at ALX Africa, Egypt
 &nbsp;&nbsp;&nbsp;&nbsp; *Duration: 1.5 years*
 
-![ALX Afric](assets/imgs-experiences/alx-africa.jpg)
+&nbsp;&nbsp;&nbsp;&nbsp; ![ALX Afric](assets/imgs-experiences/alx-africa.jpg)
 
 - Worked on multiple assignments with tight deadlines.
   
@@ -53,7 +53,7 @@ Let me introduce myself.
 ### &nbsp;&nbsp;&nbsp;&nbsp; at Information Technology Institute (ITI), Ministry of Communication and Information Technology (MCIT), Egypt
 &nbsp;&nbsp;&nbsp;&nbsp; *Duration: 5 months*
 
-![ITI Logo](assets/imgs-experiences/ITI.png)
+&nbsp;&nbsp;&nbsp;&nbsp; ![ITI Logo](assets/imgs-experiences/ITI.png)
 
 - Acquired advanced skills in **data cleaning**, **data analysis**, **visualization**, and **reporting**.
   
