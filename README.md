@@ -296,7 +296,7 @@ I joined Cairo University to pursue an academic degree in Computer Science, driv
 <br>
 
 ## Problem-Solving and Transformative Data Analysis & Insights for Sustainable Solutions  
-> *Turning data into action —— using SQL, Power BI, and analytics to bring clean water, equity, and hope to millions.*  
+> *Turning data into action - using SQL, Power BI, and analytics to bring clean water, equity, and hope to millions.*  
 
 ### Tools:
 
@@ -304,13 +304,12 @@ I joined Cairo University to pursue an academic degree in Computer Science, driv
 
 <br>
 
-- Aligned with **UN Global Goal 6 – Clean Water and Sanitation**, part of the broader **UN Global Goals** (Sustainable Development Goals), which aim to ensure sustainable water and sanitation for all. This includes universal access to safe drinking water, ending open defecation, improving water quality, and promoting long-term, resilient water resource management.
+- Aligned with **UN Global Goal 6 - Clean Water and Sanitation**, part of the broader **UN Global Goals** (Sustainable Development Goals), which aim to ensure sustainable water and sanitation for all. This includes universal access to safe drinking water, ending open defecation, improving water quality, and promoting long-term, resilient water resource management.
 
-- Focused on **SDG 6.1.1 – Access to Safely Managed Drinking Water**, a key indicator under the **United Nations (UN) Sustainable Development Goals (SDGs)**, aiming to ensure clean and safe water for all in Maji Ndogo.
+- Focused on **SDG 6.1.1 - Access to Safely Managed Drinking Water**, a key indicator under the **United Nations (UN) Sustainable Development Goals (SDGs)**, aiming to ensure clean and safe water for all in Maji Ndogo.
 
-- More details on this goal can be found via the **UN Global Goals platform**: [UN Global Goal 6 – Clean Water and Sanitation](https://globalgoals.org/goals/6-clean-water-and-sanitation/)
-
-  
+- More details on this goal can be found via the **UN Global Goals platform**: [UN Global Goal 6 - Clean Water and Sanitation](https://globalgoals.org/goals/6-clean-water-and-sanitation/)
+ 
 - Connected to a **MySQL database** and conducted deep **SQL-based exploration, cleaning, and transformation** of water source data directly in **Jupyter Notebook**, with light Python support for additional processing.
   
 - Used **Power BI** to visualize insights and craft **data storytelling dashboards** for long-term impact tracking and transparent decision-making.
@@ -325,7 +324,7 @@ I joined Cairo University to pursue an academic degree in Computer Science, driv
   
 - Exposed broader social issues like **crime risks** for women and children traveling long distances for water, emphasizing the human dimension of data.
   
-- Delivered actionable insights that guided new wells, repairs, and equitable water distribution — improving quality of life and community resilience.
+- Delivered actionable insights that guided new wells, repairs, and equitable water distribution - improving quality of life and community resilience.
    
 - Achieved a **transformative impact**, with **~18 million people** gaining access to clean water and living conditions improving significantly.  
 
@@ -373,9 +372,44 @@ I joined Cairo University to pursue an academic degree in Computer Science, driv
 <br>
 <br>
 
+## Modern SQL Data Warehouse Building & Analytics  
+> *Building a scalable data foundation for smarter analytics and reliable insights through modern data architecture and SQL engineering.*
+
+### Tools Used:
+
+`SQL Server`, `SSMS`, `Draw.io`, `Notion`, `GitHub`
+
+<br>
+
+- **Explored and analyzed business requirements** to define objectives, data needs, project scope, and deliverables.
+  
+- **Planned and structured the project in Notion**, organizing all stages - from architecture design to validation and documentation - with clearly defined phases, timelines, and milestones.
+  
+- **Designed the data warehouse architecture** in Draw.io, following the **Medallion Architecture** (Bronze–Silver–Gold).
+  
+- **Built a modern SQL data warehouse** integrating data from **ERP and CRM systems** (CSV sources).
+   
+- **Implemented ETL pipelines** for data ingestion, validation, integration, and transformation across layered architecture.
+  
+- **Performed data profiling, quality checks, cleansing, and standardization** in the Silver layer to ensure accuracy, consistency, and reliability.
+  
+- **Modeled the Gold layer** using a **star schema** with fact and dimension tables optimized for analytics (business-ready data).
+  
+- **Developed SQL-based analytics** to uncover insights into sales trends, customer behavior, and product performance.
+   
+- **Used GitHub for version control and project tracking** to ensure transparency, traceability, and collaboration.  
+
+<br>
+
+**View Full Project:** [Modern SQL Data Warehouse Building & Analytics](https://github.com/IamOmarDarwesh/Modern-SQL-Data-Warehouse-Building-Analytics)
+
+<br>
+<br>
+<br>
+<br>
 
 ## Superstore Sales Executive Performance Analytics & BI Dashboard
-> **Turning four years of sales data into an executive decision-support dashboard that uncovers the drivers behind growth, profitability, and business performance, turning revenue, margin, and customer signals into strategic decisions.**
+> *Turning four years of sales data into an executive decision-support dashboard that uncovers the drivers behind growth, profitability, and business performance, turning revenue, margin, and customer signals into strategic decisions.*
 
 ### Tools:
 `Tableau`, `Sketching & Wireframing`, `Dashboard Design`, `Data Storytelling`, `Data Visualization`
@@ -392,11 +426,11 @@ I joined Cairo University to pursue an academic degree in Computer Science, driv
 
 - Applied accessibility-first design principles, including a **structured font hierarchy** and **color-vision-deficiency-safe palettes**, ensuring the dashboard functions as a strategic tool, not just a visual one.
 
-- Uncovered a critical disconnect hiding behind healthy top-line growth: **Corporate revenue grew 17% in 2018 while profit fell 13.65%**, and **Furniture generated $742K in sales but only a 3.88% margin** — less than a quarter of Technology's 15.64%.
+- Uncovered a critical disconnect hiding behind healthy top-line growth: **Corporate revenue grew 17% in 2018 while profit fell 13.65%**, and **Furniture generated $742K in sales but only a 3.88% margin** - less than a quarter of Technology's 15.64%.
 
-- Identified the **Home Office segment as the highest-leverage growth opportunity**, with **51% revenue growth, 40% profit growth, and the highest profit ratio of all three segments since day one** — despite remaining the smallest.
+- Identified the **Home Office segment as the highest-leverage growth opportunity**, with **51% revenue growth, 40% profit growth, and the highest profit ratio of all three segments since day one** despite remaining the smallest.
 
-- Pinpointed hidden margin opportunities at the product level: **Paper, Labels, and Envelopes consistently delivered 42%+ profit margins**, and **Copiers produced 29–38% margins** while rarely appearing among top-volume products — both flagged as high-leverage, low-effort wins.
+- Pinpointed hidden margin opportunities at the product level: **Paper, Labels, and Envelopes consistently delivered 42%+ profit margins**, and **Copiers produced 29-38% margins** while rarely appearing among top-volume products, both flagged as high-leverage, low-effort wins.
 
 - Translated analytical findings into **actionable business recommendations**, including pricing optimization, customer segment prioritization, product portfolio improvements, and profitability monitoring to support data-driven strategic decisions, equipping stakeholders to move from historical reporting to forward-looking strategy.
 
@@ -411,7 +445,7 @@ I joined Cairo University to pursue an academic degree in Computer Science, driv
 
 ## AI Chatbot Performance & Customer Experience Analytics Suite
 
-> **Thousands of real AI chatbot interactions across 3.5 years, turned into a five-part executive intelligence suite, uncovering where AI succeeds, where trust breaks down, and what customers truly feel.**
+> *Thousands of real AI chatbot interactions across 3.5 years, turned into a five-part executive intelligence suite, uncovering where AI succeeds, where trust breaks down, and what customers truly feel.*
 
 Tools:
 
@@ -427,19 +461,19 @@ Tools:
 
 - Combined operational KPIs with sentiment analysis to reveal hidden patterns such as multilingual performance gaps, high-risk escalation hotspots, the optimal response-length range, sentiment deterioration despite operational success, emotional trends, and high-impact optimization opportunities that aggregate metrics alone would not expose.
 
-- Applied business storytelling, executive dashboard design principles, interactive filtering, and heatmaps to transform raw complex conversational data into strategic actionable recommendations for AI performance optimization, customer experience improvement, customer satisfaction, support efficiency and data-driven decision-making.
+- Applied business storytelling, executive dashboard design principles, interactive filtering, and heatmaps to transform raw complex conversational data into strategic actionable recommendations for AI performance optimization, customer experience improvement, customer satisfaction, support efficiency, and data-driven decision-making.
 
 <br>
 
-- Designed an **executive overview dashboard** revealing an **85% resolution rate** alongside a **3.15/5 average satisfaction score** — exposing the critical insight that *resolution does not equal satisfaction*, and that **earlier chatbot version v1.0 outperformed every newer release** on customer sentiment.
+- Designed an **executive overview dashboard** revealing an **85% resolution rate** alongside a **3.15/5 average satisfaction score**, exposing the critical insight that *resolution does not equal satisfaction*, and that **earlier chatbot version v1.0 outperformed every newer release** on customer sentiment.
 
-- Conducted a **deep escalation and resolution analysis**, pinpointing that **General Queries drive the highest escalation volume** despite being the most common interaction type, and isolating the exact failure combination (**Others + French + v1.0**) responsible for the dataset's highest unresolved-interaction rate — while also surfacing a **zero-escalation, zero-unresolved success case** (German "Other" queries on v2.0) as a model to replicate.
+- Conducted a **deep escalation and resolution analysis**, pinpointing that **General Queries drive the highest escalation volume** despite being the most common interaction type, and isolating the exact failure combination (**Others + French + v1.0**) responsible for the dataset's highest unresolved-interaction rate, while also surfacing a **zero-escalation, zero-unresolved success case** (German "Other" queries on v2.0) as a model to replicate.
 
-- Built a **three-stage sentiment intelligence layer** (overview → trends → granular heatmaps) uncovering that customer experience is **highly polarized — ~25% very positive, ~25% very negative, only ~10% neutral** — and that **responses of 25–50 words** generate the strongest sentiment, while sub-25-word replies are the only category with negative sentiment.
+- Built a **three-stage sentiment intelligence layer** (overview → trends → granular heatmaps) uncovering that customer experience is **highly polarized, ~25% very positive, ~25% very negative, only ~10% neutral**, and that **responses of 25–50 words** generate the strongest sentiment, while sub-25-word replies are the only category with negative sentiment.
 
-- Tracked sentiment as a **leading indicator over time**, identifying a sentiment peak in **Q1 2024**, a sharp drop in **Q2 2024**, and the dataset's **lowest point in Q4 2025** — flagging an early-warning signal that resolution metrics alone would have missed entirely.
+- Tracked sentiment as a **leading indicator over time**, identifying a sentiment peak in **Q1 2024**, a sharp drop in **Q2 2024**, and the dataset's **lowest point in Q4 2025**, flagging an early-warning signal that resolution metrics alone would have missed entirely.
 
-- Surfaced **emotional hotspots at the language × query-type intersection**, finding **German Feedback interactions scored highest in sentiment** overall, while **German Product Inquiries became the most negative segment** under escalated/unresolved conditions — proof that aggregate metrics hide segment-level risk.
+- Surfaced **emotional hotspots at the language × query-type intersection**, finding **German Feedback interactions scored highest in sentiment** overall, while **German Product Inquiries became the most negative segment** under escalated/unresolved conditions; proof that aggregate metrics hide segment-level risk.
 
 - Delivered a **prioritized, cross-functional action plan** (technical support optimization, multilingual model investment, response-length standards, version benchmarking) translating five layers of analysis into concrete, ROI-ranked recommendations for AI and CX leadership.
 
@@ -454,7 +488,7 @@ Tools:
 
 ## When Growth Met Emissions: A Data-Driven Story of Economic Growth & Carbon Decoupling
 
-> **Transforming 25 years of World Bank global economic and environmental data across 217 countries into an interactive story that challenges one of the most widely accepted assumptions in economic development that getting richer doesn't have to mean polluting more, and a growing group of nations is proving it.**
+> *Transforming 25 years of World Bank global economic and environmental data across 217 countries into an interactive story that challenges one of the most widely accepted assumptions in economic development that getting richer doesn't have to mean polluting more, and a growing group of nations is proving it.*
 
 ### Tools:
 
@@ -508,9 +542,9 @@ Tools:
 
 <br>
 
-- Uncovered that **release timing alone drives ~2.5× more profit** for Holiday and Summer releases versus Fall/Winter, and that **runtime and season interact** — long films (150+ min) post the highest upside in peak windows but drop sharply off-peak.
+- Uncovered that **release timing alone drives ~2.5× more profit** for Holiday and Summer releases versus Fall/Winter, and that **runtime and season interact**: long films (150+ min) post the highest upside in peak windows but drop sharply off-peak.
 
-- Identified that **budget-genre alignment is critical**: Action, Sci-Fi, and Adventure require high budgets to succeed, while Horror and Romance perform best lean — with **Animation uniquely strong across every budget tier**.
+- Identified that **budget-genre alignment is critical**: Action, Sci-Fi, and Adventure require high budgets to succeed, while Horror and Romance perform best lean, with **Animation uniquely strong across every budget tier**.
 
 - Surfaced a **language strategy by budget tier**: English dominates films over $100M, while mid- and low-budget films profit consistently across Chinese, Japanese, Telugu, and French markets.
 
@@ -527,46 +561,6 @@ Tools:
 <br>
 
 **View Full Project:** [Maximizing Movie Profitability through Transforming Raw Data into a Data-Driven Production Strategy](https://github.com/IamOmarDarwesh/Maximizing-Movie-Profitability-through-Transforming-Raw-Data-into-a-Data-Driven-Production-Strategy)
-
-<br>
-<br>
-<br>
-<br>
-
-## Modern SQL Data Warehouse Building & Analytics  
-> *Building a scalable data foundation for smarter analytics and reliable insights through modern data architecture and SQL engineering.*
-
-### Tools Used:
-
-`SQL Server`, `SSMS`, `Draw.io`, `Notion`, `GitHub`
-
-<br>
-
-- **Explored and analyzed business requirements** to define objectives, data needs, project scope, and deliverables.
-  
-- **Planned and structured the project in Notion**, organizing all stages — from architecture design to validation and documentation — with clearly defined phases, timelines, and milestones.
-  
-- **Designed the data warehouse architecture** in Draw.io, following the **Medallion Architecture** (Bronze–Silver–Gold).
-  
-- **Built a modern SQL data warehouse** integrating data from **ERP and CRM systems** (CSV sources).
-   
-- **Implemented ETL pipelines** for data ingestion, validation, integration, and transformation across layered architecture.
-  
-- **Performed data profiling, quality checks, cleansing, and standardization** in the Silver layer to ensure accuracy, consistency, and reliability.
-  
-- **Modeled the Gold layer** using a **star schema** with fact and dimension tables optimized for analytics (business-ready data).
-  
-- **Developed SQL-based analytics** to uncover insights into sales trends, customer behavior, and product performance.
-   
-- **Used GitHub for version control and project tracking** to ensure transparency, traceability, and collaboration.  
-
-<br>
-
-**View Full Project:** [Modern SQL Data Warehouse Building & Analytics](https://github.com/IamOmarDarwesh/Modern-SQL-Data-Warehouse-Building-Analytics)
-
-
-
-
 
 ---
 
