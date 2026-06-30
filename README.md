@@ -215,6 +215,8 @@ I actively pursue continuous learning to sharpen my skills, expand my knowledge,
 
   - **Data Visualization Nanodegree**
 
+<br>
+
 ### A few of Coursera Certificates:
 
   - **Excel Skills for Business** <u>by Macquarie University</u>
