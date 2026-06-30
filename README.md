@@ -25,8 +25,8 @@ Let me introduce myself.
 
 
 ## **Data Engineering Trainee** 
-### at ALX Africa, Egypt
-*Duration: June 2026 - Present*
+### &nbsp;&nbsp;&nbsp;&nbsp; at ALX Africa, Egypt
+&nbsp;&nbsp;&nbsp;&nbsp; *Duration: June 2026 - Present*
 
 ![ALX Afric](assets/imgs-experiences/alx-africa.jpg)
 
@@ -37,8 +37,8 @@ Let me introduce myself.
 <br>
 
 ## **Data Science Trainee** 
-### at ALX Africa, Egypt
-*Duration: 1.5 years*
+### &nbsp;&nbsp;&nbsp;&nbsp; at ALX Africa, Egypt
+&nbsp;&nbsp;&nbsp;&nbsp; *Duration: 1.5 years*
 
 ![ALX Afric](assets/imgs-experiences/alx-africa.jpg)
 
@@ -50,8 +50,8 @@ Let me introduce myself.
 <br>
 
 ## **Data Analysis Trainee** 
-### at Information Technology Institute (ITI), Ministry of Communication and Information Technology (MCIT), Egypt
-*Duration: 5 months*
+### &nbsp;&nbsp;&nbsp;&nbsp; at Information Technology Institute (ITI), Ministry of Communication and Information Technology (MCIT), Egypt
+&nbsp;&nbsp;&nbsp;&nbsp; *Duration: 5 months*
 
 ![ITI Logo](assets/imgs-experiences/ITI.png)
 
