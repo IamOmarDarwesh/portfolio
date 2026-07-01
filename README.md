@@ -234,7 +234,7 @@ I actively pursue continuous learning to sharpen my skills, expand my knowledge,
 
   - **IBM Data Warehouse Engineer** <u>by IBM</u>
 
-  - **IBM Data Engineer** <u>by IBM</u> *(in progress...)*
+  - **IBM Data Engineer** <u>by IBM</u>
 
 <br>
 
