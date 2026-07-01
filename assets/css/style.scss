@@ -3,6 +3,7 @@
 
 @import 'jekyll-theme-hacker';
 
+
 /* -------------------------
    Navigation Bar
 -------------------------- */
@@ -12,39 +13,67 @@ html {
 }
 
 .navbar {
-  position: sticky;   /* or fixed if you prefer */
+  position: sticky;
   top: 0;
   z-index: 1000;
 
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  gap: 18px;
+  gap: 12px;
 
-  padding: 12px 20px;
+  padding: 15px;
 
-  background: rgba(0, 0, 0, 0.95);
+  background: rgba(20, 20, 20, 0.96);
+  backdrop-filter: blur(8px);
+
   border-bottom: 1px solid #63c0f5;
 }
 
+/* Navigation buttons */
 .navbar a {
+  display: inline-block;
+
+  padding: 10px 18px;
+
   color: #63c0f5;
   text-decoration: none;
   font-weight: bold;
+  font-size: 15px;
+
+  border: 1px solid #63c0f5;
+  border-radius: 999px;
+
+  background: rgba(99, 192, 245, 0.08);
+
+  transition: all 0.25s ease;
 }
 
+/* Hover effect */
 .navbar a:hover {
-  color: white;
+  background: #63c0f5;
+  color: #111;
+
+  box-shadow:
+    0 0 8px rgba(99, 192, 245, 0.6),
+    0 0 20px rgba(99, 192, 245, 0.3);
+
+  transform: translateY(-2px);
 }
 
-/* Space for the navbar */
-#main_content {
-  padding-top: 20px;
+/* Click effect */
+.navbar a:active {
+  transform: translateY(0);
 }
 
-/* Don't let headings hide behind the navbar */
+/* Keep headings visible when jumping */
 h1,
 h2,
 h3 {
-  scroll-margin-top: 70px;
+  scroll-margin-top: 90px;
+}
+
+/* Space below navbar */
+#main_content {
+  padding-top: 25px;
 }
