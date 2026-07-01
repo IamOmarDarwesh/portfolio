@@ -526,7 +526,7 @@ Tools:
 <br>
 <br>
 
-## Spectacular Studios - Movie Profitability Analysis & Executive Strategy (#movie-project)
+## Spectacular Studios - Movie Profitability Analysis & Executive Strategy
 
 > **Turning thousands of IMDb film records into a data-driven production strategy that helps executives make smarter, lower-risk investment decisions, uncovering exactly which combination of budget, genre, runtime, language, and timing maximizes profit.**
 
