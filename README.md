@@ -203,7 +203,7 @@ I worked very hard to get certified by Microsoft in **Power BI** and **Azure Clo
 <br>
 <br>
 
-# Professional Certificates & Specialization courses
+# Professional Certificates
 
 I am a results-driven professional with a strong focus on acquiring practical, in-demand skills.
 
