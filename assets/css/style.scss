@@ -198,9 +198,17 @@ h3 {
     transition:.25s;
 }
 
-.project-item:hover{
+.project-item:hover {
+    background: #63c0f5;
+    transform: translateX(4px);
+}
 
-    background:#1d1d1d;
+.project-item:hover .project-title {
+    color: #111;
+}
+
+.project-item:hover .project-tech {
+    color: #222;
 }
 
 .project-title{
