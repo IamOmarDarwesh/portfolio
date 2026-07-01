@@ -31,7 +31,7 @@ Let me introduce myself.
 &nbsp;&nbsp;&nbsp;&nbsp; ![ALX Afric](assets/imgs-experiences/alx-africa.jpg)
 
   
-- Gaining expertise in **Python**, **Docker**, **Apache Airflow**, **Apache Spark**, **Apache Kafka**, and other key data Engineering tools.
+&nbsp;&nbsp;&nbsp;&nbsp; - Gaining expertise in **Python**, **Docker**, **Apache Airflow**, **Apache Spark**, **Apache Kafka**, and other key data Engineering tools.
 
 <br>
 <br>
@@ -42,22 +42,23 @@ Let me introduce myself.
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![ALX Afric](assets/imgs-experiences/alx-africa.jpg)
 
-- Worked on multiple assignments with tight deadlines.
+&nbsp;&nbsp;&nbsp;&nbsp; - Worked on multiple assignments with tight deadlines.
   
-- Gained expertise in **SQL**, **Python**, **Power BI**, and other key data analysis tools.
+&nbsp;&nbsp;&nbsp;&nbsp; - Gained expertise in **SQL**, **Python**, **Power BI**, and other key data analysis tools.
 
 <br>
 <br>
 
 ## &nbsp;&nbsp;&nbsp;&nbsp; **Data Analysis Trainee** 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; at Information Technology Institute (ITI), Ministry of Communication and Information Technology (MCIT), Egypt
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; at Information Technology Institute (ITI), 
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ministry of Communication and Information Technology (MCIT), Egypt
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Duration: 5 months*
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![ITI Logo](assets/imgs-experiences/ITI.png)
 
-- Acquired advanced skills in **data cleaning**, **data analysis**, **visualization**, and **reporting**.
+&nbsp;&nbsp;&nbsp;&nbsp; - Acquired advanced skills in **data cleaning**, **data analysis**, **visualization**, and **reporting**.
   
-- Worked with a variety of tools such as **SQL**, **Excel**, **Python**, **Power BI**, **Tableau**, and more.
+&nbsp;&nbsp;&nbsp;&nbsp; - Worked with a variety of tools such as **SQL**, **Excel**, **Python**, **Power BI**, **Tableau**, and more.
 
 <br>
 <br>
