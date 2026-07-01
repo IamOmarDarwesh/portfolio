@@ -31,8 +31,9 @@ Let me introduce myself.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![ALX Afric](assets/imgs-experiences/alx-africa.jpg)
 
   
-&nbsp;&nbsp;&nbsp;&nbsp; - Gaining expertise in **Python**, **Docker**, **Apache Airflow**, **Apache Spark**, **Apache Kafka**, 
-&nbsp;&nbsp;&nbsp;&nbsp; and other key data Engineering tools.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Gaining expertise in **Python**, **Docker**, **Apache Airflow**, **Apache Spark**, **Apache Kafka**, 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and other key data Engineering tools.
 
 <br>
 <br>
@@ -43,9 +44,9 @@ Let me introduce myself.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![ALX Afric](assets/imgs-experiences/alx-africa.jpg)
 
-&nbsp;&nbsp;&nbsp;&nbsp; - Worked on multiple assignments with tight deadlines.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Worked on multiple assignments with tight deadlines.
   
-&nbsp;&nbsp;&nbsp;&nbsp; - Gained expertise in **SQL**, **Python**, **Power BI**, and other key data analysis tools.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Gained expertise in **SQL**, **Python**, **Power BI**, and other key data analysis tools.
 
 <br>
 <br>
@@ -57,9 +58,9 @@ Let me introduce myself.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![ITI Logo](assets/imgs-experiences/ITI.png)
 
-&nbsp;&nbsp;&nbsp;&nbsp; - Acquired advanced skills in **data cleaning**, **data analysis**, **visualization**, and **reporting**.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Acquired advanced skills in **data cleaning**, **data analysis**, **visualization**, and **reporting**.
   
-&nbsp;&nbsp;&nbsp;&nbsp; - Worked with a variety of tools such as **SQL**, **Excel**, **Python**, **Power BI**, **Tableau**, and more.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Worked with a variety of tools such as **SQL**, **Excel**, **Python**, **Power BI**, **Tableau**, and more.
 
 <br>
 <br>
