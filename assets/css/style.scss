@@ -1,0 +1,50 @@
+---
+---
+
+@import 'jekyll-theme-hacker';
+
+/* -------------------------
+   Navigation Bar
+-------------------------- */
+
+html {
+  scroll-behavior: smooth;
+}
+
+.navbar {
+  position: sticky;   /* or fixed if you prefer */
+  top: 0;
+  z-index: 1000;
+
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 18px;
+
+  padding: 12px 20px;
+
+  background: rgba(0, 0, 0, 0.95);
+  border-bottom: 1px solid #63c0f5;
+}
+
+.navbar a {
+  color: #63c0f5;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.navbar a:hover {
+  color: white;
+}
+
+/* Space for the navbar */
+#main_content {
+  padding-top: 20px;
+}
+
+/* Don't let headings hide behind the navbar */
+h1,
+h2,
+h3 {
+  scroll-margin-top: 70px;
+}
