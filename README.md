@@ -593,8 +593,8 @@ Working to get comfortable with the full data pipeline, with a particular focus 
 
 [![Apache Spark](assets/imgs-tools&technologies/Apache-Spark.png)](https://spark.apache.org/)
 [![Apache Kafka](assets/imgs-tools&technologies/Kafka.png)](https://kafka.apache.org/)
-
-
+[![Databricks](assets/imgs-tools&technologies/databricks.png)](https://www.databricks.com/)
+[![Apache Kafka](assets/imgs-tools&technologies/Kafka1.png)](https://kafka.apache.org/)
 
 My goal here is to build **scalable, reliable, and maintainable data solutions** that drive real business impact and support better decision-making and long-term growth — from automated pipelines to insightful dashboards.
 
