@@ -589,12 +589,9 @@ Working to get comfortable with the full data pipeline, with a particular focus 
 [![BigQuery](assets/imgs-tools&technologies/bigquery.svg)](https://cloud.google.com/bigquery)
 [![Databricks](assets/imgs-tools&technologies/databricks.png)](https://www.databricks.com/)
 [![PostgreSQL](assets/imgs-tools&technologies/postgresql.svg)](https://www.postgresql.org/)
-
 [![Apache Airflow](assets/imgs-tools&technologies/Airflow.png)](https://airflow.apache.org/)
-
 [![Apache Spark](assets/imgs-tools&technologies/Apache-Spark.png)](https://spark.apache.org/)
 [![Apache Kafka](assets/imgs-tools&technologies/Kafka.png)](https://kafka.apache.org/)
-
 [![Apache Kafka](assets/imgs-tools&technologies/Kafka1.png)](https://kafka.apache.org/)
 
 My goal here is to build **scalable, reliable, and maintainable data solutions** that drive real business impact and support better decision-making and long-term growth — from automated pipelines to insightful dashboards.
