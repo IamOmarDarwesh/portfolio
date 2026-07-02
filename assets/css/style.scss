@@ -1,244 +1,277 @@
 ---
 ---
-
 @import 'jekyll-theme-hacker';
-
-
-/* -------------------------
-   Navigation Bar
--------------------------- */
 
 html {
   scroll-behavior: smooth;
 }
 
+/* -------------------------
+   Navigation Bar
+-------------------------- */
 .navbar {
   position: sticky;
   top: 0;
   z-index: 1000;
-
   display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  gap: 12px;
-
-  padding: 15px;
-
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 20px;
   background: rgba(20, 20, 20, 0.96);
   backdrop-filter: blur(8px);
-
   border-bottom: 1px solid #63c0f5;
 }
 
+.navbar-brand {
+  display: none; /* only shown on mobile as a placeholder/label; optional */
+}
+
+.navbar-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px;
+  flex: 1;
+}
+
 /* Navigation buttons */
-.navbar a {
+.navbar-links > a {
   display: inline-block;
-
   padding: 10px 18px;
-
   color: #63c0f5;
   text-decoration: none;
   font-weight: bold;
   font-size: 15px;
-
   border: 1px solid #63c0f5;
   border-radius: 999px;
-
   background: rgba(99, 192, 245, 0.08);
-
   transition: all 0.25s ease;
+  white-space: nowrap;
 }
 
-/* Hover effect */
-.navbar a:hover {
+.navbar-links > a:hover {
   background: #63c0f5;
   color: #111;
-
   box-shadow:
     0 0 8px rgba(99, 192, 245, 0.6),
     0 0 20px rgba(99, 192, 245, 0.3);
-
   transform: translateY(-2px);
 }
 
-/* Click effect */
-.navbar a:active {
+.navbar-links > a:active {
   transform: translateY(0);
 }
 
-/* Keep headings visible when jumping */
-h1,
-h2,
-h3 {
+/* Hamburger button (hidden on desktop) */
+.navbar-toggle {
+  display: none;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 28px;
+  height: 20px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  z-index: 1001;
+}
+
+.navbar-toggle span {
+  display: block;
+  height: 3px;
+  width: 100%;
+  background: #63c0f5;
+  border-radius: 2px;
+  transition: transform 0.25s ease, opacity 0.25s ease;
+}
+
+/* Turn hamburger into an X when menu is open */
+.navbar.open .navbar-toggle span:nth-child(1) {
+  transform: translateY(8.5px) rotate(45deg);
+}
+.navbar.open .navbar-toggle span:nth-child(2) {
+  opacity: 0;
+}
+.navbar.open .navbar-toggle span:nth-child(3) {
+  transform: translateY(-8.5px) rotate(-45deg);
+}
+
+h1, h2, h3 {
   scroll-margin-top: 90px;
 }
 
-/* Space below navbar */
 #main_content {
   padding-top: 25px;
 }
 
-
-// /* Dropdown */
-
-// .dropdown {
-//   position: relative;
-// }
-
-// .dropdown-content {
-//   display: none;
-
-//   position: absolute;
-//   top: 100%;
-//   left: 0;
-
-//   min-width: 260px;
-
-//   background: #111;
-
-//   border: 1px solid #63c0f5;
-//   border-radius: 10px;
-
-//   overflow: hidden;
-
-//   box-shadow: 0 8px 25px rgba(0,0,0,.5);
-// }
-
-// .dropdown-content a {
-//   display: block;
-
-//   padding: 12px 16px;
-
-//   border: none;
-//   border-radius: 0;
-
-//   background: transparent;
-
-//   color: #63c0f5;
-// }
-
-// .dropdown-content a:hover {
-//   background: #63c0f5;
-//   color: #111;
-// }
-
-// .dropdown:hover .dropdown-content {
-//   display: block;
-// }
-
-
-
-
-/* ---------- Dropdown ---------- */
-
-.dropdown{
-    position:relative;
-    display:inline-flex;
-    align-items:center;
+/* ---------- Dropdown / Mega menu ---------- */
+.dropdown {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
 }
 
-.dropdown-arrow{
-    margin-left:6px;
-    color:#63c0f5;
-    cursor:pointer;
+.dropdown-arrow {
+  margin-left: 6px;
+  color: #63c0f5;
+  cursor: pointer;
+  user-select: none;
 }
 
 .mega-menu {
-    display: none;
-
-    position: absolute;
-    top: 120%;
-    left: 0;
-
-    width: 450px;
-
-    background: #111;
-    border: 1px solid #63c0f5;
-    border-radius: 12px;
-
-    padding: 18px;
-
-    box-shadow: 0 15px 40px rgba(0,0,0,.55);
-
-    z-index: 9999;
-
-    /* NEW */
-    max-height: 500px;
-    overflow-y: auto;
-    overflow-x: hidden;
+  display: none;
+  position: absolute;
+  top: 120%;
+  left: 0;
+  width: 450px;
+  max-width: 90vw;
+  background: #111;
+  border: 1px solid #63c0f5;
+  border-radius: 12px;
+  padding: 18px;
+  box-shadow: 0 15px 40px rgba(0, 0, 0, .55);
+  z-index: 9999;
+  max-height: 500px;
+  overflow-y: auto;
+  overflow-x: hidden;
 }
 
-.dropdown:hover .mega-menu{
-    display:block;
+/* Desktop: open on hover */
+@media (min-width: 769px) {
+  .dropdown:hover .mega-menu {
+    display: block;
+  }
+}
+
+/* JS toggles this class for click/tap support on both desktop & mobile */
+.dropdown.menu-open .mega-menu {
+  display: block;
 }
 
 .dropdown::after {
-    content: "";
-    position: absolute;
-    left: 0;
-    top: 100%;
-
-    width: 100%;
-    height: 15px;
-
-    background: transparent;
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 100%;
+  width: 100%;
+  height: 15px;
+  background: transparent;
 }
 
-.mega-menu h3{
-
-    margin-top:0;
-
-    margin-bottom:15px;
-
-    color:#63c0f5;
-
-    font-size:18px;
+.mega-menu h3 {
+  margin-top: 0;
+  margin-bottom: 15px;
+  color: #63c0f5;
+  font-size: 18px;
 }
 
-.project-item{
-
-    display:block;
-
-    padding:12px;
-
-    margin-bottom:8px;
-
-    text-decoration:none;
-
-    border-radius:8px;
-
-    transition:.25s;
+.project-item {
+  display: block;
+  padding: 12px;
+  margin-bottom: 8px;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: .25s;
 }
 
 .project-item:hover {
-    background: #63c0f5;
-    transform: translateX(4px);
+  background: #63c0f5;
+  transform: translateX(4px);
 }
 
 .project-item:hover .project-title {
-    color: #111;
+  color: #111;
 }
 
 .project-item:hover .project-tech {
-    color: #222;
+  color: #222;
 }
 
-.project-title{
-
-    display:block;
-
-    color:#fff;
-
-    font-weight:bold;
-
-    margin-bottom:4px;
+.project-title {
+  display: block;
+  color: #fff;
+  font-weight: bold;
+  margin-bottom: 4px;
 }
 
-.project-tech{
+.project-tech {
+  display: block;
+  color: #63c0f5;
+  font-size: 13px;
+}
 
-    display:block;
+/* -------------------------
+   Responsive breakpoints
+-------------------------- */
+@media (max-width: 768px) {
+  .navbar {
+    justify-content: space-between;
+  }
 
-    color:#63c0f5;
+  .navbar-toggle {
+    display: flex;
+  }
 
-    font-size:13px;
+  .navbar-links {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 8px;
+    background: rgba(15, 15, 15, 0.98);
+    padding: 16px;
+    border-bottom: 1px solid #63c0f5;
+    max-height: calc(100vh - 60px);
+    overflow-y: auto;
+  }
+
+  .navbar.open .navbar-links {
+    display: flex;
+  }
+
+  .navbar-links > a {
+    text-align: center;
+  }
+
+  .dropdown {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .dropdown > a.dropbtn {
+    text-align: center;
+  }
+
+  .dropdown-arrow {
+    position: absolute;
+    right: 14px;
+    top: 12px;
+  }
+
+  .mega-menu {
+    position: static;
+    width: 100%;
+    max-width: 100%;
+    margin-top: 8px;
+    box-shadow: none;
+  }
+
+  .dropdown::after {
+    display: none;
+  }
+}
+
+@media (max-width: 420px) {
+  .navbar-links > a {
+    font-size: 14px;
+    padding: 8px 14px;
+  }
+
+  .mega-menu {
+    padding: 12px;
+  }
 }
