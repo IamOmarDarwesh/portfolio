@@ -18,7 +18,6 @@
   </head>
 
   <body>
-
     <nav class="navbar">
       <a href="#technical-experience">Technical Experience</a>
       <a href="#certifications">Certifications</a>
@@ -133,39 +132,5 @@
         {{ content }}
       </section>
     </div>
-
-    <script>
-
-const btn=document.getElementById("moreBtn");
-const menu=document.getElementById("moreMenu");
-
-btn.onclick=function(){
-
-    menu.classList.toggle("show");
-
-};
-
-document.querySelectorAll(".more-menu a").forEach(link=>{
-
-    link.onclick=function(){
-
-        menu.classList.remove("show");
-
-    };
-
-});
-
-document.addEventListener("click",function(e){
-
-    if(!btn.contains(e.target) && !menu.contains(e.target)){
-
-        menu.classList.remove("show");
-
-    }
-
-});
-
-</script>
-    
   </body>
 </html>
