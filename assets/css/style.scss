@@ -79,7 +79,57 @@ h3 {
 }
 
 
-/* Dropdown */
+// /* Dropdown */
+
+// .dropdown {
+//   position: relative;
+// }
+
+// .dropdown-content {
+//   display: none;
+
+//   position: absolute;
+//   top: 100%;
+//   left: 0;
+
+//   min-width: 260px;
+
+//   background: #111;
+
+//   border: 1px solid #63c0f5;
+//   border-radius: 10px;
+
+//   overflow: hidden;
+
+//   box-shadow: 0 8px 25px rgba(0,0,0,.5);
+// }
+
+// .dropdown-content a {
+//   display: block;
+
+//   padding: 12px 16px;
+
+//   border: none;
+//   border-radius: 0;
+
+//   background: transparent;
+
+//   color: #63c0f5;
+// }
+
+// .dropdown-content a:hover {
+//   background: #63c0f5;
+//   color: #111;
+// }
+
+// .dropdown:hover .dropdown-content {
+//   display: block;
+// }
+
+
+
+
+/* ---------- Dropdown ---------- */
 
 .dropdown{
     position:relative;
@@ -192,119 +242,3 @@ h3 {
 
     font-size:13px;
 }
-
-
-
-
-/* ---------- More menu ---------- */
-
-.nav-main{
-
-    display:flex;
-    justify-content:center;
-    align-items:center;
-    gap:12px;
-    flex-wrap:wrap;
-}
-
-.more-btn{
-
-    padding:10px 18px;
-
-    border:1px solid #63c0f5;
-
-    border-radius:999px;
-
-    background:rgba(99,192,245,.08);
-
-    color:#63c0f5;
-
-    cursor:pointer;
-
-    font-weight:bold;
-}
-
-.more-btn:hover{
-
-    background:#63c0f5;
-    color:#111;
-}
-
-.more-menu{
-
-    display:none;
-
-    position:absolute;
-
-    top:65px;
-
-    right:20px;
-
-    background:#111;
-
-    border:1px solid #63c0f5;
-
-    border-radius:12px;
-
-    padding:12px;
-
-    z-index:9999;
-
-    min-width:260px;
-}
-
-.more-menu.show{
-
-    display:block;
-}
-
-.more-menu a{
-
-    display:block;
-
-    margin-bottom:8px;
-}
-
-.more-menu a:last-child{
-
-    margin-bottom:0;
-}
-
-
-
-
-@media (min-width:901px){
-
-    .more-btn,
-    .more-menu{
-
-        display:none !important;
-    }
-
-}
-
-
-
-
-@media (max-width:900px){
-
-    .navbar{
-
-        justify-content:space-between;
-    }
-
-    /* Hide these on smaller screens */
-
-    a[href="#certifications"],
-    a[href="#professional-certificates"],
-    a[href="#education"],
-    a[href="#current-professional-development-focus"]{
-
-        display:none;
-    }
-
-}
-
-
-
-
