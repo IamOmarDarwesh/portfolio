@@ -233,8 +233,6 @@ I actively pursue continuous learning to sharpen my skills, expand my knowledge,
 
 <br>
 
-Applied Scrum for Agile Project Management
-
 ### Udacity Certificates:
 
   - **Data Visualization Nanodegree**
@@ -615,7 +613,6 @@ Working to get comfortable with the full data pipeline, with a particular focus 
 [![BigQuery](assets/imgs-tools&technologies/bigquery.svg)](https://cloud.google.com/bigquery)
 [![Databricks](assets/imgs-tools&technologies/databricks.png)](https://www.databricks.com/)
 [![PostgreSQL](assets/imgs-tools&technologies/postgresql.svg)](https://www.postgresql.org/)
-
 [![Apache Airflow](assets/imgs-tools&technologies/Airflow.png)](https://airflow.apache.org/)
 [![Apache Kafka](assets/imgs-tools&technologies/Kafka.png)](https://kafka.apache.org/)
 [![Apache Spark](assets/imgs-tools&technologies/Apache-Spark.png)](https://spark.apache.org/)
