@@ -145,26 +145,13 @@ A few examples of the type of visualizations I created are like these:
 
 <img src="assets/imgs-projects/maji-ndogo/national-overview.png" alt="National Overview" width="70%">
 
-<br><br>
+<br>
 
 <img src="assets/imgs-projects/maji-ndogo/progress-overview.png" alt="Progress Overview" width="70%">
 
-<br><br>
+<br>
 
 <img src="assets/imgs-projects/maji-ndogo/survey-results-overview.png" alt="Survey Results Overview" width="70%">
-
-<br>
-<br>
-<br>
-
-<p align="center">
-  <img src="assets/imgs-projects/maji-ndogo/national-overview.png" alt="National Overview" width="49%">
-  <img src="assets/imgs-projects/maji-ndogo/progress-overview.png" alt="Progress Overview" width="49%">
-</p>
-
-<p align="center">
-  <img src="assets/imgs-projects/maji-ndogo/survey-results-overview.png" alt="Survey Results Overview" width="49%">
-</p>
 
 <br>
 <br>
@@ -213,23 +200,20 @@ I worked very hard to get certified by Microsoft in **Power BI** and **Azure Clo
 
 [View Credential](https://learn.microsoft.com/en-us/users/iamomardarwesh/credentials/40ec254c1199ceed)
 
-<!--![Power BI Certification](assets/imgs-certifications/PL-300-Microsoft-Power-BI-Data-Analyst-certificate.png)-->
-
 <img src="assets/imgs-certifications/PL-300-Microsoft-Power-BI-Data-Analyst-certificate.png" alt="Power BI Certification" width="70%">
 
-
+<!--![Power BI Certification](assets/imgs-certifications/PL-300-Microsoft-Power-BI-Data-Analyst-certificate.png)-->
 
 <br>
 <br>
 
 ## Microsoft Certified: Azure Data Fundamentals:
 
-<!--[View Credential](https://learn.microsoft.com/en-us/users/iamomardarwesh/credentials/c10953d4ba96486c)-->
+[View Credential](https://learn.microsoft.com/en-us/users/iamomardarwesh/credentials/c10953d4ba96486c)
 
 <img src="assets/imgs-certifications/DP-900-Microsoft-Azure-Data-Fundamentals-certificate.png" alt="Azure Data Fundamentals Certification" width="70%">
 
-
-![Azure Data Fundamentals Certification](assets/imgs-certifications/DP-900-Microsoft-Azure-Data-Fundamentals-certificate.png)
+<!--![Azure Data Fundamentals Certification](assets/imgs-certifications/DP-900-Microsoft-Azure-Data-Fundamentals-certificate.png)-->
 
 <br>
 
