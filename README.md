@@ -125,13 +125,14 @@ I used **Figma**, **draw.io**, **PowerPoint** and **Google Slides** for Sketchin
 <br>
 <br>
 
-I experienced different visualization tools like **Power BI, Tableau, Looker Studio, and Python**.
+I experienced different visualization tools like **Power BI, Tableau, Looker Studio, Flourish, and Python**.
 
 <br>
 
 [![Power BI](assets/imgs-tools&technologies/ms-power-bi.svg)](https://powerbi.microsoft.com/) 
 [![Tableau](assets/imgs-tools&technologies/Tableau.svg)](https://www.tableau.com/)
 [![Looker Studio](assets/imgs-tools&technologies/google-looker-studio.png)](https://lookerstudio.google.com/) 
+[![Flourish](assets/imgs-tools&technologies/flourish.png)](https://flourish.studio/)
 [![Python](assets/imgs-tools&technologies/Python.svg)](https://www.python.org/)
 
 <br>
