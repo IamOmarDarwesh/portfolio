@@ -1,145 +1,136 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1"
+    />
 
-  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link
+      rel="stylesheet"
+      href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}"
+    />
 
-  {% include head-custom.html %}
-  {% seo %}
-</head>
+    {% include head-custom.html %}
+    {% seo %}
+  </head>
 
-<body>
+  <body>
+    <nav class="navbar">
+      <a href="#technical-experience">Technical Experience</a>
+      <a href="#certifications">Certifications</a>
+      <a href="#professional-certificates">Professional Certificates</a>
+      <a href="#education">Education</a>
 
-<nav class="navbar">
+      <div class="dropdown">
+        <a href="#projects" class="dropbtn">
+          Projects
+        </a>
 
-  <a href="#technical-experience">Technical Experience</a>
+        <span class="dropdown-arrow">▼</span>
 
-  <a href="#certifications">Certifications</a>
+        <div class="mega-menu">
+          <h3>⭐ Projects</h3>
 
-  <a href="#professional-certificates">Professional Certificates</a>
+          <a
+            href="#problem-solving-and-transformative-data-analysis--insights-for-sustainable-solutions"
+            class="project-item"
+          >
+            <span class="project-title">
+              📊 Water Crisis Analytics Water Crisis Analytics
+            </span>
+            <span class="project-tech">
+              SQL • Python • Power BI
+            </span>
+          </a>
 
-  <a href="#education">Education</a>
+          <a
+            href="#call-center-performance-analytics-dashboard"
+            class="project-item"
+          >
+            <span class="project-title">
+              ☎️ Call Center Dashboard
+            </span>
+            <span class="project-tech">
+              Power BI • DAX • Excel
+            </span>
+          </a>
 
-  <div class="dropdown">
+          <a
+            href="#modern-sql-data-warehouse-building--analytics"
+            class="project-item"
+          >
+            <span class="project-title">
+              🏗 SQL Data Warehouse
+            </span>
+            <span class="project-tech">
+              SQL Server • ETL
+            </span>
+          </a>
 
-    <a href="#projects"
-       class="dropbtn"
-       id="projects-button">
-      Projects
-    </a>
+          <a
+            href="#superstore-sales-executive-performance-analytics--bi-dashboard"
+            class="project-item"
+          >
+            <span class="project-title">
+              📈 Superstore Executive BI
+            </span>
+            <span class="project-tech">
+              Tableau
+            </span>
+          </a>
 
-    <span class="dropdown-arrow">▼</span>
+          <a
+            href="#ai-chatbot-performance--customer-experience-analytics-suite"
+            class="project-item"
+          >
+            <span class="project-title">
+              🤖 AI Chatbot Analytics
+            </span>
+            <span class="project-tech">
+              Tableau • Customer Analytics
+            </span>
+          </a>
 
-    <div class="mega-menu" id="projects-menu">
+          <a
+            href="#when-growth-met-emissions-a-data-driven-story-of-economic-growth--carbon-decoupling"
+            class="project-item"
+          >
+            <span class="project-title">
+              🌍 Carbon Emissions
+            </span>
+            <span class="project-tech">
+              Tableau • Flourish
+            </span>
+          </a>
 
-      <h3>⭐ Projects</h3>
+          <a
+            href="#spectacular-studios---movie-profitability-analysis--executive-strategy"
+            class="project-item"
+          >
+            <span class="project-title">
+              🎬 Movie Profitability
+            </span>
+            <span class="project-tech">
+              Python • Statistics
+            </span>
+          </a>
+        </div>
+      </div>
 
-      <a href="#problem-solving-and-transformative-data-analysis--insights-for-sustainable-solutions" class="project-item">
-        <span class="project-title">📊 Water Crisis Analytics</span>
-        <span class="project-tech">SQL • Python • Power BI</span>
+      <a href="#current-professional-development-focus">
+        Professional Development
       </a>
 
-      <a href="#call-center-performance-analytics-dashboard" class="project-item">
-        <span class="project-title">☎️ Call Center Dashboard</span>
-        <span class="project-tech">Power BI • DAX • Excel</span>
-      </a>
+      <a href="#contact">Contact</a>
+    </nav>
 
-      <a href="#modern-sql-data-warehouse-building--analytics" class="project-item">
-        <span class="project-title">🏗 SQL Data Warehouse</span>
-        <span class="project-tech">SQL Server • ETL</span>
-      </a>
-
-      <a href="#superstore-sales-executive-performance-analytics--bi-dashboard" class="project-item">
-        <span class="project-title">📈 Superstore Executive BI</span>
-        <span class="project-tech">Tableau</span>
-      </a>
-
-      <a href="#ai-chatbot-performance--customer-experience-analytics-suite" class="project-item">
-        <span class="project-title">🤖 AI Chatbot Analytics</span>
-        <span class="project-tech">Tableau • Customer Analytics</span>
-      </a>
-
-      <a href="#when-growth-met-emissions-a-data-driven-story-of-economic-growth--carbon-decoupling" class="project-item">
-        <span class="project-title">🌍 Carbon Emissions</span>
-        <span class="project-tech">Tableau • Flourish</span>
-      </a>
-
-      <a href="#spectacular-studios---movie-profitability-analysis--executive-strategy" class="project-item">
-        <span class="project-title">🎬 Movie Profitability</span>
-        <span class="project-tech">Python • Statistics</span>
-      </a>
-
+    <div class="container">
+      <section id="main_content">
+        {{ content }}
+      </section>
     </div>
-
-  </div>
-
-  <a href="#current-professional-development-focus">
-    Professional Development
-  </a>
-
-  <a href="#contact">Contact</a>
-
-</nav>
-
-<div class="container">
-  <section id="main_content">
-    {{ content }}
-  </section>
-</div>
-
-<script>
-document.addEventListener("DOMContentLoaded", () => {
-
-    const button = document.getElementById("projects-button");
-    const menu = document.getElementById("projects-menu");
-
-    // Mobile: tap Projects to open/close
-    button.addEventListener("click", function(e){
-
-        if(window.innerWidth <= 768){
-
-            e.preventDefault();
-
-            menu.classList.toggle("show-menu");
-        }
-
-    });
-
-    // Close when clicking outside
-    document.addEventListener("click", function(e){
-
-        if(window.innerWidth <= 768){
-
-            if(!button.contains(e.target) && !menu.contains(e.target)){
-
-                menu.classList.remove("show-menu");
-
-            }
-
-        }
-
-    });
-
-    // Close after selecting a project
-    menu.querySelectorAll("a").forEach(link => {
-
-        link.addEventListener("click", () => {
-
-            if(window.innerWidth <= 768){
-
-                menu.classList.remove("show-menu");
-
-            }
-
-        });
-
-    });
-
-});
-</script>
-
-</body>
+  </body>
 </html>
