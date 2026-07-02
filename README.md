@@ -590,6 +590,7 @@ Working to get comfortable with the full data pipeline, with a particular focus 
 [![Databricks](assets/imgs-tools&technologies/databricks.png)](https://www.databricks.com/)
 [![PostgreSQL](assets/imgs-tools&technologies/postgresql.svg)](https://www.postgresql.org/)
 
+
 [![Apache Airflow](assets/imgs-tools&technologies/Airflow.png)](https://airflow.apache.org/)
 [![Apache Kafka](assets/imgs-tools&technologies/Kafka.png)](https://kafka.apache.org/)
 [![Apache Spark](assets/imgs-tools&technologies/Apache-Spark.png)](https://spark.apache.org/)
