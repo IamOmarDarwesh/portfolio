@@ -18,119 +18,119 @@
   </head>
 
   <body>
-    <nav class="navbar">
-      <a href="#technical-experience">Technical Experience</a>
-      <a href="#certifications">Certifications</a>
-      <a href="#professional-certificates">Professional Certificates</a>
-      <a href="#education">Education</a>
 
-      <div class="dropdown">
-        <a href="#projects" class="dropbtn">
-          Projects
+    
+    <nav class="navbar" id="site-navbar">
+  <button class="navbar-toggle" id="navbar-toggle" aria-label="Toggle navigation" aria-expanded="false">
+    <span></span>
+    <span></span>
+    <span></span>
+  </button>
+  <div class="navbar-links" id="navbar-links">
+    <a href="#technical-experience">Technical Experience</a>
+    <a href="#certifications">Certifications</a>
+    <a href="#professional-certificates">Professional Certificates</a>
+    <a href="#education">Education</a>
+    <div class="dropdown" id="projects-dropdown">
+      <a href="#projects" class="dropbtn">Projects</a>
+      <span class="dropdown-arrow" id="dropdown-arrow">▼</span>
+      <div class="mega-menu">
+        <h3>⭐ Projects</h3>
+        <a href="#problem-solving-and-transformative-data-analysis--insights-for-sustainable-solutions" class="project-item">
+          <span class="project-title">📊 Water Crisis Analytics</span>
+          <span class="project-tech">SQL • Python • Power BI</span>
         </a>
-
-        <span class="dropdown-arrow">▼</span>
-
-        <div class="mega-menu">
-          <h3>⭐ Projects</h3>
-
-          <a
-            href="#problem-solving-and-transformative-data-analysis--insights-for-sustainable-solutions"
-            class="project-item"
-          >
-            <span class="project-title">
-              📊 Water Crisis Analytics Water Crisis Analytics
-            </span>
-            <span class="project-tech">
-              SQL • Python • Power BI
-            </span>
-          </a>
-
-          <a
-            href="#call-center-performance-analytics-dashboard"
-            class="project-item"
-          >
-            <span class="project-title">
-              ☎️ Call Center Dashboard
-            </span>
-            <span class="project-tech">
-              Power BI • DAX • Excel
-            </span>
-          </a>
-
-          <a
-            href="#modern-sql-data-warehouse-building--analytics"
-            class="project-item"
-          >
-            <span class="project-title">
-              🏗 SQL Data Warehouse
-            </span>
-            <span class="project-tech">
-              SQL Server • ETL
-            </span>
-          </a>
-
-          <a
-            href="#superstore-sales-executive-performance-analytics--bi-dashboard"
-            class="project-item"
-          >
-            <span class="project-title">
-              📈 Superstore Executive BI
-            </span>
-            <span class="project-tech">
-              Tableau
-            </span>
-          </a>
-
-          <a
-            href="#ai-chatbot-performance--customer-experience-analytics-suite"
-            class="project-item"
-          >
-            <span class="project-title">
-              🤖 AI Chatbot Analytics
-            </span>
-            <span class="project-tech">
-              Tableau • Customer Analytics
-            </span>
-          </a>
-
-          <a
-            href="#when-growth-met-emissions-a-data-driven-story-of-economic-growth--carbon-decoupling"
-            class="project-item"
-          >
-            <span class="project-title">
-              🌍 Carbon Emissions
-            </span>
-            <span class="project-tech">
-              Tableau • Flourish
-            </span>
-          </a>
-
-          <a
-            href="#spectacular-studios---movie-profitability-analysis--executive-strategy"
-            class="project-item"
-          >
-            <span class="project-title">
-              🎬 Movie Profitability
-            </span>
-            <span class="project-tech">
-              Python • Statistics
-            </span>
-          </a>
-        </div>
+        <a href="#call-center-performance-analytics-dashboard" class="project-item">
+          <span class="project-title">☎️ Call Center Dashboard</span>
+          <span class="project-tech">Power BI • DAX • Excel</span>
+        </a>
+        <a href="#modern-sql-data-warehouse-building--analytics" class="project-item">
+          <span class="project-title">🏗 SQL Data Warehouse</span>
+          <span class="project-tech">SQL Server • ETL</span>
+        </a>
+        <a href="#superstore-sales-executive-performance-analytics--bi-dashboard" class="project-item">
+          <span class="project-title">📈 Superstore Executive BI</span>
+          <span class="project-tech">Tableau</span>
+        </a>
+        <a href="#ai-chatbot-performance--customer-experience-analytics-suite" class="project-item">
+          <span class="project-title">🤖 AI Chatbot Analytics</span>
+          <span class="project-tech">Tableau • Customer Analytics</span>
+        </a>
+        <a href="#when-growth-met-emissions-a-data-driven-story-of-economic-growth--carbon-decoupling" class="project-item">
+          <span class="project-title">🌍 Carbon Emissions</span>
+          <span class="project-tech">Tableau • Flourish</span>
+        </a>
+        <a href="#spectacular-studios---movie-profitability-analysis--executive-strategy" class="project-item">
+          <span class="project-title">🎬 Movie Profitability</span>
+          <span class="project-tech">Python • Statistics</span>
+        </a>
       </div>
-
-      <a href="#current-professional-development-focus">
-        Professional Development
-      </a>
-
-      <a href="#contact">Contact</a>
-    </nav>
+    </div>
+    <a href="#current-professional-development-focus">Professional Development</a>
+    <a href="#contact">Contact</a>
+  </div>
+</nav>
 
     <div class="container">
       <section id="main_content">
         {{ content }}
       </section>
     </div>
+
+    <script>
+  (function () {
+    var navbar = document.getElementById('site-navbar');
+    var toggle = document.getElementById('navbar-toggle');
+    var links = document.getElementById('navbar-links');
+    var dropdown = document.getElementById('projects-dropdown');
+    var isMobile = function () { return window.matchMedia('(max-width: 768px)').matches; };
+
+    // Hamburger open/close
+    toggle.addEventListener('click', function () {
+      var isOpen = navbar.classList.toggle('open');
+      toggle.setAttribute('aria-expanded', isOpen);
+    });
+
+    // Projects dropdown: tap-to-toggle on mobile, click still works on desktop
+    dropdown.querySelector('.dropbtn').addEventListener('click', function (e) {
+      if (isMobile()) {
+        e.preventDefault();
+        dropdown.classList.toggle('menu-open');
+      }
+    });
+    document.getElementById('dropdown-arrow').addEventListener('click', function (e) {
+      e.preventDefault();
+      dropdown.classList.toggle('menu-open');
+    });
+
+    // Close mobile menu after tapping a real link (not the dropdown toggle itself)
+    links.querySelectorAll('a:not(.dropbtn), .project-item').forEach(function (a) {
+      a.addEventListener('click', function () {
+        navbar.classList.remove('open');
+        dropdown.classList.remove('menu-open');
+        toggle.setAttribute('aria-expanded', 'false');
+      });
+    });
+
+    // Close menu if the viewport is resized back to desktop
+    window.addEventListener('resize', function () {
+      if (!isMobile()) {
+        navbar.classList.remove('open');
+        dropdown.classList.remove('menu-open');
+        toggle.setAttribute('aria-expanded', 'false');
+      }
+    });
+
+    // Close dropdown if clicking outside of it
+    document.addEventListener('click', function (e) {
+      if (!dropdown.contains(e.target)) {
+        dropdown.classList.remove('menu-open');
+      }
+    });
+  })();
+</script>
+
+
+    
   </body>
 </html>
