@@ -273,3 +273,19 @@ h3 {
   }
 
 }
+
+
+/* Mobile click support for Projects menu */
+@media (max-width:768px){
+
+    .mega-menu{
+        display:none;
+    }
+
+    .mega-menu.show-menu{
+        display:block;
+    }
+
+}
+
+
