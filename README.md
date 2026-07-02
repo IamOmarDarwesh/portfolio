@@ -143,6 +143,20 @@ A few examples of the type of visualizations I created are like these:
 
 <br>
 
+<img src="assets/imgs-projects/maji-ndogo/national-overview.png" alt="National Overview" width="70%">
+
+<br><br>
+
+<img src="assets/imgs-projects/maji-ndogo/progress-overview.png" alt="Progress Overview" width="80%">
+
+<br><br>
+
+<img src="assets/imgs-projects/maji-ndogo/survey-results-overview.png" alt="Survey Results Overview" width="60%">
+
+<br>
+<br>
+<br>
+
 ![national-overview](assets/imgs-projects/maji-ndogo/national-overview.png) 
 
 ![progress-overview](assets/imgs-projects/maji-ndogo/progress-overview.png) 
