@@ -215,9 +215,23 @@ I actively pursue continuous learning to sharpen my skills, expand my knowledge,
 
 <br>
 
+Applied Scrum for Agile Project Management
+
 ### Udacity Certificates:
 
   - **Data Visualization Nanodegree**
+
+<br>
+
+### A few of edX Certificates:
+
+  - **Applied Scrum for Agile Project Management** <u>by The University of Maryland, College Park</u>
+
+<br>
+
+### 365 Data Science Certificates:
+
+  - **Mastering Key Performance Indicators (KPIs)**
 
 <br>
 
@@ -256,12 +270,6 @@ I actively pursue continuous learning to sharpen my skills, expand my knowledge,
   - **Associate Python Developer**
 
   - **Python Programming**
-
-<br>
-
-### 365 Data Science Certificates:
-
-  - **Mastering Key Performance Indicators (KPIs)**
 
 <br>
 
@@ -589,7 +597,6 @@ Working to get comfortable with the full data pipeline, with a particular focus 
 [![BigQuery](assets/imgs-tools&technologies/bigquery.svg)](https://cloud.google.com/bigquery)
 [![Databricks](assets/imgs-tools&technologies/databricks.png)](https://www.databricks.com/)
 [![PostgreSQL](assets/imgs-tools&technologies/postgresql.svg)](https://www.postgresql.org/)
-
 
 [![Apache Airflow](assets/imgs-tools&technologies/Airflow.png)](https://airflow.apache.org/)
 [![Apache Kafka](assets/imgs-tools&technologies/Kafka.png)](https://kafka.apache.org/)
