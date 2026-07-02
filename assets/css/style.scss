@@ -19,19 +19,15 @@ html {
 
   display: flex;
   justify-content: center;
-  align-items: center;
   flex-wrap: wrap;
-
   gap: 12px;
 
   padding: 15px;
 
-  background: rgba(20,20,20,.96);
+  background: rgba(20, 20, 20, 0.96);
   backdrop-filter: blur(8px);
 
   border-bottom: 1px solid #63c0f5;
-
-  overflow: visible;
 }
 
 /* Navigation buttons */
@@ -83,13 +79,62 @@ h3 {
 }
 
 
-/* Dropdown */
+// /* Dropdown */
+
+// .dropdown {
+//   position: relative;
+// }
+
+// .dropdown-content {
+//   display: none;
+
+//   position: absolute;
+//   top: 100%;
+//   left: 0;
+
+//   min-width: 260px;
+
+//   background: #111;
+
+//   border: 1px solid #63c0f5;
+//   border-radius: 10px;
+
+//   overflow: hidden;
+
+//   box-shadow: 0 8px 25px rgba(0,0,0,.5);
+// }
+
+// .dropdown-content a {
+//   display: block;
+
+//   padding: 12px 16px;
+
+//   border: none;
+//   border-radius: 0;
+
+//   background: transparent;
+
+//   color: #63c0f5;
+// }
+
+// .dropdown-content a:hover {
+//   background: #63c0f5;
+//   color: #111;
+// }
+
+// .dropdown:hover .dropdown-content {
+//   display: block;
+// }
+
+
+
+
+/* ---------- Dropdown ---------- */
 
 .dropdown{
     position:relative;
     display:inline-flex;
     align-items:center;
-    z-index:1001;
 }
 
 .dropdown-arrow{
@@ -102,9 +147,8 @@ h3 {
     display: none;
 
     position: absolute;
-    top:100%;
-    left:0;
-    margin-top:6px;
+    top: 120%;
+    left: 0;
 
     width: 450px;
 
@@ -135,7 +179,7 @@ h3 {
     top: 100%;
 
     width: 100%;
-    height: 25px;
+    height: 15px;
 
     background: transparent;
 }
@@ -199,93 +243,22 @@ h3 {
     font-size:13px;
 }
 
+.view-all{
 
+    display:block;
 
+    margin-top:15px;
 
+    text-align:center;
 
+    color:#63c0f5;
 
+    text-decoration:none;
 
-
-
-
-
-/* ============================= */
-/* RESPONSIVE NAVIGATION */
-/* ============================= */
-
-/* Tablet */
-
-@media (max-width: 1100px) {
-
-  .navbar{
-
-      justify-content:flex-start;
-
-      overflow-x:auto;
-
-      overflow-y:visible;
-
-      flex-wrap:nowrap;
-
-      padding:12px;
-
-      scrollbar-width:thin;
-  }
-
-  .navbar a,
-  .dropdown{
-
-      flex-shrink:0;
-  }
-
-  .navbar a{
-
-      padding:9px 14px;
-
-      font-size:14px;
-  }
-
+    font-weight:bold;
 }
 
-/* Mobile */
+.view-all:hover{
 
-@media (max-width:768px){
-
-  .navbar{
-
-      gap:8px;
-
-      padding:10px;
-  }
-
-  .navbar a{
-
-      font-size:13px;
-
-      padding:8px 12px;
-  }
-
-  .mega-menu{
-
-      width:320px;
-
-      max-height:350px;
-  }
-
+    color:white;
 }
-
-
-/* Mobile click support for Projects menu */
-@media (max-width:768px){
-
-    .mega-menu{
-        display:none;
-    }
-
-    .mega-menu.show-menu{
-        display:block;
-    }
-
-}
-
-
