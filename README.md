@@ -578,7 +578,7 @@ Tools:
 
 You might be wondering what I’ve been up to lately.
 
-I’ve been focused on learning/mastering tools like **Docker**, **dbt**, **BigQuery**, **Postgresql**, **Airflow**, **Spark**, and **Kafka** through hands-on experience.
+I’ve been focused on learning/mastering tools like **Docker**, **dbt**, **BigQuery**, **Databricks**, **Postgresql**, **Airflow**, **Kafka**, and **Spark** through hands-on experience.
 
 Working to get comfortable with the full data pipeline, with a particular focus on mastering **data transformation**, alongside **data ingestion**, **warehousing**, **orchestration**, and **analytics**.
 
@@ -590,9 +590,9 @@ Working to get comfortable with the full data pipeline, with a particular focus 
 [![Databricks](assets/imgs-tools&technologies/databricks.png)](https://www.databricks.com/)
 [![PostgreSQL](assets/imgs-tools&technologies/postgresql.svg)](https://www.postgresql.org/)
 [![Apache Airflow](assets/imgs-tools&technologies/Airflow.png)](https://airflow.apache.org/)
-[![Apache Kafka](assets/imgs-tools&technologies/Kafka1.png)](https://kafka.apache.org/)
-[![Apache Spark](assets/imgs-tools&technologies/Apache-Spark.png)](https://spark.apache.org/)
 [![Apache Kafka](assets/imgs-tools&technologies/Kafka.png)](https://kafka.apache.org/)
+[![Apache Spark](assets/imgs-tools&technologies/Apache-Spark.png)](https://spark.apache.org/)
+
 
 
 My goal here is to build **scalable, reliable, and maintainable data solutions** that drive real business impact and support better decision-making and long-term growth — from automated pipelines to insightful dashboards.
