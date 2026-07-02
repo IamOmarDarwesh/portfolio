@@ -18,7 +18,45 @@
   </head>
 
   <body>
+
     <nav class="navbar">
+
+  <div class="nav-main">
+
+    <a href="#technical-experience">Experience</a>
+
+    <a href="#projects">Projects</a>
+
+    <a href="#contact">Contact</a>
+
+    <button class="more-btn" id="moreBtn">
+      More ▾
+    </button>
+
+  </div>
+
+  <div class="more-menu" id="moreMenu">
+
+    <a href="#certifications">Certifications</a>
+
+    <a href="#professional-certificates">
+      Professional Certificates
+    </a>
+
+    <a href="#education">
+      Education
+    </a>
+
+    <a href="#current-professional-development-focus">
+      Professional Development
+    </a>
+
+  </div>
+
+</nav>
+
+    
+    <!-- <nav class="navbar">
       <a href="#technical-experience">Technical Experience</a>
       <a href="#certifications">Certifications</a>
       <a href="#professional-certificates">Professional Certificates</a>
@@ -125,12 +163,46 @@
       </a>
 
       <a href="#contact">Contact</a>
-    </nav>
+    </nav> -->
 
     <div class="container">
       <section id="main_content">
         {{ content }}
       </section>
     </div>
+
+    <script>
+
+const btn=document.getElementById("moreBtn");
+const menu=document.getElementById("moreMenu");
+
+btn.onclick=function(){
+
+    menu.classList.toggle("show");
+
+};
+
+document.querySelectorAll(".more-menu a").forEach(link=>{
+
+    link.onclick=function(){
+
+        menu.classList.remove("show");
+
+    };
+
+});
+
+document.addEventListener("click",function(e){
+
+    if(!btn.contains(e.target) && !menu.contains(e.target)){
+
+        menu.classList.remove("show");
+
+    }
+
+});
+
+</script>
+    
   </body>
 </html>
