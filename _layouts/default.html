@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1"
+    />
+
+    <link
+      rel="stylesheet"
+      href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}"
+    />
+
+    {% include head-custom.html %}
+    {% seo %}
+  </head>
+
+  <body>
+    
+    
+    <nav class="navbar" id="site-navbar">
+      <button class="navbar-toggle" id="navbar-toggle" aria-label="Toggle navigation" aria-expanded="false">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+      <div class="navbar-links" id="navbar-links">
+        <a href="#technical-experience">Technical Experience</a>
+        <a href="#certifications">Certifications</a>
+        <a href="#professional-certificates">Professional Certificates</a>
+        <a href="#education">Education</a>
+        
+        <!-- Desktop: regular dropdown with hover -->
+        <div class="dropdown desktop-dropdown" id="projects-dropdown-desktop">
+          <a href="#projects" class="dropbtn">Projects</a>
+          <span class="dropdown-arrow">▼</span>
+          <div class="mega-menu-wrapper">
+            <div class="mega-menu">
+              <h3>⭐ Projects</h3>
+              <a href="#problem-solving-and-transformative-data-analysis--insights-for-sustainable-solutions" class="project-item">
+                <span class="project-title">📊 Water Crisis Analytics & Sustainability Insights</span>
+                <span class="project-tech">SQL • MySQL • Python • Power BI • Figma • PowerPoint</span>
+              </a>
+              <a href="#call-center-performance-analytics-dashboard" class="project-item">
+                <span class="project-title">☎️ Call Center Performance Dashboard</span>
+                <span class="project-tech">Power BI • DAX • Power Query • Excel • Figma</span>
+              </a>
+              <a href="#modern-sql-data-warehouse-building--analytics" class="project-item">
+                <span class="project-title">🏗 Modern SQL Data Warehouse</span>
+                <span class="project-tech">SQL Server • SSMS • Draw.io • Notion • GitHub • ETL • Data Modeling • Data Integration</span>
+              </a>
+              <a href="#superstore-sales-executive-performance-analytics--bi-dashboard" class="project-item">
+                <span class="project-title">📈 Superstore Executive Sales Analytics & BI</span>
+                <span class="project-tech">Tableau • Figma • Sketching & Wireframing • Dashboard Design</span>
+              </a>
+              <a href="#ai-chatbot-performance--customer-experience-analytics-suite" class="project-item">
+                <span class="project-title">🤖 AI Chatbot Performance Analytics</span>
+                <span class="project-tech">Tableau • Figma • Sketching & Wireframing • Dashboard Design</span>
+              </a>
+              <a href="#when-growth-met-emissions-a-data-driven-story-of-economic-growth--carbon-decoupling" class="project-item">
+                <span class="project-title">🌍 Economic Growth & Carbon Emissions Analysis</span>
+                <span class="project-tech">Tableau • Flourish • Audio Narration • Statistical Analysis</span>
+              </a>
+              <a href="#spectacular-studios---movie-profitability-analysis--executive-strategy" class="project-item">
+                <span class="project-title">🎬 Movie Profitability & Investment Analysis</span>
+                <span class="project-tech">Tableau • PowerPoint • Python • Pandas • NumPy • Matplotlib • Data Integration</span>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Mobile: details accordion -->
+        <details class="dropdown mobile-dropdown" id="projects-dropdown-mobile">
+          <summary class="dropbtn">
+            Projects
+            <span class="dropdown-arrow">▼</span>
+          </summary>
+          <div class="mega-menu">
+            <h3>⭐ Projects</h3>
+            <a href="#problem-solving-and-transformative-data-analysis--insights-for-sustainable-solutions" class="project-item">
+              <span class="project-title">📊 Water Crisis Analytics & Sustainability Insights</span>
+              <span class="project-tech">SQL • MySQL • Python • Power BI • Figma • PowerPoint</span>
+            </a>
+            <a href="#call-center-performance-analytics-dashboard" class="project-item">
+              <span class="project-title">☎️ Call Center Performance Dashboard</span>
+              <span class="project-tech">Power BI • DAX • Power Query • Excel • Figma</span>
+            </a>
+            <a href="#modern-sql-data-warehouse-building--analytics" class="project-item">
+              <span class="project-title">🏗 Modern SQL Data Warehouse</span>
+              <span class="project-tech">SQL Server • SSMS • Draw.io • Notion • GitHub • ETL • Data Modeling • Data Integration</span>
+            </a>
+            <a href="#superstore-sales-executive-performance-analytics--bi-dashboard" class="project-item">
+              <span class="project-title">📈 Superstore Executive Sales Analytics & BI</span>
+              <span class="project-tech">Tableau • Figma • Sketching & Wireframing • Dashboard Design</span>
+            </a>
+            <a href="#ai-chatbot-performance--customer-experience-analytics-suite" class="project-item">
+              <span class="project-title">🤖 AI Chatbot Performance Analytics</span>
+              <span class="project-tech">Tableau • Figma • Sketching & Wireframing • Dashboard Design</span>
+            </a>
+            <a href="#when-growth-met-emissions-a-data-driven-story-of-economic-growth--carbon-decoupling" class="project-item">
+              <span class="project-title">🌍 Economic Growth & Carbon Emissions Analysis</span>
+              <span class="project-tech">Tableau • Flourish • Audio Narration • Statistical Analysis</span>
+            </a>
+            <a href="#spectacular-studios---movie-profitability-analysis--executive-strategy" class="project-item">
+              <span class="project-title">🎬 Movie Profitability & Investment Analysis</span>
+              <span class="project-tech">Tableau • PowerPoint • Python • Pandas • NumPy • Matplotlib • Data Integration</span>
+            </a>
+          </div>
+        </details>
+
+        <a href="#current-professional-development-focus">Professional Development</a>
+        <a href="#contact">Contact</a>
+      </div>
+    </nav>
+
+    <div class="container">
+      <section id="main_content">
+        {{ content }}
+      </section>
+    </div>
+
+    <script>
+      (function () {
+        // Navigation toggle functionality
+        var navbar = document.getElementById('site-navbar');
+        var toggle = document.getElementById('navbar-toggle');
+        var links = document.getElementById('navbar-links');
+        var mobileDropdown = document.getElementById('projects-dropdown-mobile');
+        var arrow = mobileDropdown.querySelector('.dropdown-arrow');
+        var isMobile = function () { return window.matchMedia('(max-width: 1505px)').matches; };
+
+        toggle.addEventListener('click', function () {
+          var isOpen = navbar.classList.toggle('open');
+          toggle.setAttribute('aria-expanded', isOpen);
+        });
+
+        mobileDropdown.addEventListener('toggle', function () {
+          arrow.textContent = mobileDropdown.open ? '▲' : '▼';
+        });
+
+        // Fix: Handle navigation clicks with offset for sticky navbar
+        links.querySelectorAll('a:not(.dropbtn), .project-item').forEach(function (a) {
+          a.addEventListener('click', function (e) {
+            var href = this.getAttribute('href');
+            
+            // Close mobile menu
+            navbar.classList.remove('open');
+            mobileDropdown.open = false;
+            toggle.setAttribute('aria-expanded', 'false');
+            arrow.textContent = '▼';
+            
+            // Only handle internal links that start with #
+            if (href && href.startsWith('#')) {
+              e.preventDefault();
+              
+              var targetId = href.substring(1);
+              
+              // First try to find the element with the ID
+              var targetElement = document.getElementById(targetId);
+              
+              if (targetElement) {
+                // Find the parent project-card
+                var card = targetElement.closest('.project-card');
+                
+                // If we found a card, scroll to it, otherwise scroll to the element
+                var scrollTarget = card || targetElement;
+                
+                // Calculate offset for sticky navbar
+                var navbarHeight = navbar ? navbar.offsetHeight : 0;
+                var offset = navbarHeight + 20;
+                
+                var rect = scrollTarget.getBoundingClientRect();
+                var absoluteTop = rect.top + window.pageYOffset - offset;
+                
+                window.scrollTo({ top: absoluteTop, behavior: 'smooth' });
+              }
+            }
+          });
+        });
+
+        window.addEventListener('resize', function () {
+          if (!isMobile()) {
+            navbar.classList.remove('open');
+            mobileDropdown.open = false;
+            toggle.setAttribute('aria-expanded', 'false');
+            arrow.textContent = '▼';
+          }
+        });
+
+        // Touch highlight for project cards on mobile
+        var projectCards = document.querySelectorAll('.project-card');
+        var isMobileDevice = window.matchMedia('(max-width: 768px)').matches;
+        
+        if (isMobileDevice && projectCards.length) {
+          function removeAllHighlights() {
+            projectCards.forEach(function(c) {
+              c.classList.remove('touch-highlight');
+            });
+          }
+
+          projectCards.forEach(function(card) {
+            card.addEventListener('touchstart', function(e) {
+              removeAllHighlights();
+              this.classList.add('touch-highlight');
+            }, { passive: true });
+            
+            card.addEventListener('touchend', function(e) {
+              var self = this;
+              setTimeout(function() {
+                self.classList.remove('touch-highlight');
+              }, 200);
+            }, { passive: true });
+            
+            card.addEventListener('touchcancel', function() {
+              this.classList.remove('touch-highlight');
+            }, { passive: true });
+          });
+
+          // Remove highlight when touching anywhere else
+          document.addEventListener('touchstart', function(e) {
+            if (!e.target.closest('.project-card')) {
+              removeAllHighlights();
+            }
+          }, { passive: true });
+        }
+
+        // ========================================
+        // READ MORE / READ LESS FUNCTIONALITY
+        // ========================================
+        
+        document.querySelectorAll('.read-more-btn').forEach(function(button) {
+          var scrollPosition = 0; // Store scroll position when expanding
+          
+          button.addEventListener('click', function(e) {
+            e.preventDefault();
+            var details = this.closest('.project-details');
+            var content = details.querySelector('.project-content');
+            var card = this.closest('.project-card');
+            var isExpanded = content.classList.toggle('expanded');
+            
+            // Update button text immediately - no flash
+            var textSpan = this.querySelector('.btn-text');
+            var icon = this.querySelector('.btn-icon');
+            
+            if (isExpanded) {
+              // Store the current scroll position BEFORE expanding
+              scrollPosition = window.pageYOffset || document.documentElement.scrollTop;
+              
+              textSpan.textContent = 'Read Less';
+              icon.textContent = '▲';
+              this.setAttribute('aria-expanded', 'true');
+              
+              // NO SCROLLING when expanding - stay in place
+            } else {
+              textSpan.textContent = 'Read More';
+              icon.textContent = '▼';
+              this.setAttribute('aria-expanded', 'false');
+              
+              // Restore the EXACT scroll position from before expansion
+              // Use requestAnimationFrame to ensure collapse happens first
+              requestAnimationFrame(function() {
+                window.scrollTo({
+                  top: scrollPosition,
+                  behavior: 'instant'
+                });
+              });
+            }
+          });
+        });
+        
+      })();
+    </script>
+    
+  </body>
+</html>
