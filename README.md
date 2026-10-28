@@ -835,20 +835,23 @@ Tools:
 
 You might be wondering what I’ve been up to lately.
 
-I’ve been focused on learning/mastering tools like **Docker**, **dbt**, **BigQuery**, **Databricks**, **Postgresql**, **Airflow**, **Kafka**, and **Spark** through hands-on experience.
+I’ve been focused on learning/mastering tools like **Fivetran**, **Airbyte**, **Docker**, **dbt**, **BigQuery**, **Databricks**, **Apache Spark**, **Apache Airflow**, **Apache Kafka**, and **Postgresql** through hands-on experience.
 
 Working to get comfortable with the full data pipeline, with a particular focus on mastering **data transformation**, alongside **data ingestion**, **warehousing**, **orchestration**, and **analytics**.
 
 <br>
 
+<a href="https://www.fivetran.com/" target="_blank" rel="noopener noreferrer"><img src="assets/imgs-tools&technologies/Fivetran.svg" alt="Fivetran" title="Fivetran" /></a>
+<a href="https://airbyte.com/" target="_blank" rel="noopener noreferrer"><img src="assets/imgs-tools&technologies/airbyte.png" alt="Airbyte" title="Airbyte" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img src="assets/imgs-tools&technologies/docker.png" alt="Docker" title="Docker" /></a>
 <a href="https://www.getdbt.com/" target="_blank" rel="noopener noreferrer"><img src="assets/imgs-tools&technologies/Dbt.svg" alt="dbt" title="dbt" /></a>
 <a href="https://cloud.google.com/bigquery" target="_blank" rel="noopener noreferrer"><img src="assets/imgs-tools&technologies/bigquery.svg" alt="BigQuery" title="BigQuery" /></a>
 <a href="https://www.databricks.com/" target="_blank" rel="noopener noreferrer"><img src="assets/imgs-tools&technologies/databricks.png" alt="Databricks" title="Databricks" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"><img src="assets/imgs-tools&technologies/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" /></a>
+<a href="https://spark.apache.org/" target="_blank" rel="noopener noreferrer"><img src="assets/imgs-tools&technologies/Apache-Spark.png" alt="Apache Spark" title="Apache Spark" /></a>
 <a href="https://airflow.apache.org/" target="_blank" rel="noopener noreferrer"><img src="assets/imgs-tools&technologies/Airflow.png" alt="Apache Airflow" title="Apache Airflow" /></a>
 <a href="https://kafka.apache.org/" target="_blank" rel="noopener noreferrer"><img src="assets/imgs-tools&technologies/Kafka.png" alt="Apache Kafka" title="Apache Kafka" /></a>
-<a href="https://spark.apache.org/" target="_blank" rel="noopener noreferrer"><img src="assets/imgs-tools&technologies/Apache-Spark.png" alt="Apache Spark" title="Apache Spark" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"><img src="assets/imgs-tools&technologies/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" /></a>
+
 
 <br>
 
